@@ -124,8 +124,8 @@ http://live-ciner.mncdn.net/bloomberght/bloomberght2/playlist.m3u8
 http://kanalturk.ercdn.net:1935/er/buguntv3/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,HABER 61 TV
 rtmp://win8.yayinda.org/haber61tv/haber61tv
-#EXTINF:-1 $ExtFilter=" ULUSAL",ZAMAN TV
-
+#EXTINF:-1 $ExtFilter=" ULUSAL",CAN ERZINCAN TV
+http://vivisolivegrp01-lh.akamaihd.net/i/backup1_1@398192/index_270_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 $ExtFilter=" ULUSAL",AKİT TV
 http://origin2.live.web.tv.streamprovider.net/streams/bff43380440cfe9d5b937f4a61723bed/index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL AVRUPA
@@ -323,8 +323,11 @@ http://yayin8.canliyayin.org:1935/hilaltv/hilaltv/playlist.m3u8
 mmsh://yayin.networkbil.com/kanalislam
 #EXTINF:-1 $ExtFilter=" DİNİ" ,KANAL KABE
 http://livetr.gostream.nl/mekke/mekke/playlist.m3u8
+#EXTINF:-1 $ExtFilter=" DİNİ" ,KANAL MEKKE
+http://vivisolivegrp01-lh.akamaihd.net/i/mekketv_1@398171/index_270_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 $ExtFilter=" DİNİ" ,KANAL MEDINE
 http://livetr.gostream.nl/medine/medine/playlist.m3u8
+
 #EXTINF:-1 $ExtFilter=" DİNİ" ,ISTANBUL TV
 rtmp://s01.speednext.com:1935/istanbultv/istanbultv  
 #EXTINF:-1 $ExtFilter="TÜRKİ" ,ANS TV Azerbaycan
