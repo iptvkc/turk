@@ -120,8 +120,7 @@ rtmp://yayin.netradyom.com/live/on4
 http://mn-l.mncdn.com/bloomberght/bloomberght2/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,BLOOMBERG HT Seçenek 2
 http://live-ciner.mncdn.net/bloomberght/bloomberght2/playlist.m3u8
-#EXTINF:-1 $ExtFilter=" HABER" ,BUGÜN TV
-http://kanalturk.ercdn.net:1935/er/buguntv3/playlist.m3u8
+
 #EXTINF:-1 $ExtFilter=" HABER" ,HABER 61 TV
 rtmp://win8.yayinda.org/haber61tv/haber61tv
 #EXTINF:-1 $ExtFilter=" ULUSAL",CAN ERZINCAN TV
@@ -141,9 +140,8 @@ http://37.75.10.20:80/meltemtvcanli/meltemtvcanli/playlist.m3u8
 http://148.251.53.81:1935/live/kanalt1/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" SPOR" ,TRT SPOR
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
-#EXTINF:-1 $ExtFilter=" SPOR" ,TRT SPOR Seçenek 2
-http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/playlist.m3u8
-#EXTINF:-1 $ExtFilter=" SPOR" ,TRT SPOR Seçenek 3
+
+#EXTINF:-1 $ExtFilter=" SPOR" ,TRT SPOR 2
 http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" SPOR" ,NTV SPOR
 http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
