@@ -17,8 +17,9 @@ http://mn-l.mncdn.com/showturktv/showturktv1/HasBahCa.m3u8
 #EXTINF:-1,SAMANYOLU 
 http://vivisolive-lh.akamaihd.net/i/syg_backup1_1@382437/index_360_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,SAMANYOLU EU
+http://vivisolivegrp01-lh.akamaihd.net/i/stveu_1@398191/index_270_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,SAMANYOLU EU yedek
 http://vivisolivegrp01-lh.akamaihd.net/i/stveu_1@398191/index_180_av-b.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,FOX TURK
 http://85.111.14.2:80/r_foxtv/foxtv3/playlist.m3u8 
 
@@ -124,7 +125,7 @@ http://kanalturk.ercdn.net:1935/er/buguntv3/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,HABER 61 TV
 rtmp://win8.yayinda.org/haber61tv/haber61tv
 #EXTINF:-1 $ExtFilter=" ULUSAL",ZAMAN TV
-http://mn-i.mncdn.com/zaman_live3/live/playlist.m3u8
+
 #EXTINF:-1 $ExtFilter=" ULUSAL",AKİT TV
 http://origin2.live.web.tv.streamprovider.net/streams/bff43380440cfe9d5b937f4a61723bed/index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL AVRUPA
