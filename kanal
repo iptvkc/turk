@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTINF:-1 $ExtFilter=" ULUSAL" ,FUTBOL 
-http://cdn.step-tv.com:8000/live/persianshare/skype/390.ts
-#EXTINF:-1 $ExtFilter=" ULUSAL" ,FUTBOL TEST 1
-http://cdn.step-tv.com:8000/live/persianshare/skype/391.ts
-#EXTINF:-1 $ExtFilter=" ULUSAL" ,FUTBOL TEST 2
-http://cdn.step-tv.com:8000/live/persianshare/skype/392.ts
-#EXTINF:-1,SAMANYOLU TEST
-http://vivisolive-lh.akamaihd.net/i/syg_backup1_1@382437/index_360_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,SAMANYOLU HABER TEST
-http://vivisolive-lh.akamaihd.net/i/syg_backup2_1@382438/index_360_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,MEHTAP TEST
-http://vivisolivegrp01-lh.akamaihd.net/i/mehtaptv_1@398170/index_270_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,YUMURCAK TEST
-http://vivisolive-lh.akamaihd.net/i/syg_backup3_1@383108/index_360_av-b.m3u8?sd=10&rebase=on
-
 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL D
 http://212.224.108.80/S1/HLS_LIVE/kanald/500/prog_index.m3u8
@@ -29,6 +14,8 @@ http://mn-l.mncdn.com/showtv/showtv1/playlist.m3u8
 http://origin2.live.web.tv.streamprovider.net/streams/1c3194be3e42b53e3b61831517eb972a_live_0_0/index.m3u8
 #EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SHOW TÜRK 
 http://mn-l.mncdn.com/showturktv/showturktv1/HasBahCa.m3u8
+#EXTINF:-1,SAMANYOLU 
+http://vivisolive-lh.akamaihd.net/i/syg_backup1_1@382437/index_360_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,FOX TURK
 http://85.111.14.2:80/r_foxtv/foxtv3/playlist.m3u8 
@@ -62,6 +49,9 @@ http://origin.live.web.tv.streamprovider.net/streams/9044496707bcc259f6cdf58eb93
 http://origin.live.web.tv.streamprovider.net/streams/5dac5e87d17d40f5bca18d2b211a4dd2_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,CİNE5
 rtmp://cine5.stream.cubecdn.net/cine5/stream_1
+#EXTINF:-1,SAMANYOLU HABER 
+http://vivisolive-lh.akamaihd.net/i/syg_backup2_1@382438/index_360_av-b.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,BEYAZ TV
 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL A
@@ -138,6 +128,9 @@ http://origin2.live.web.tv.streamprovider.net/streams/bff43380440cfe9d5b937f4a61
 rtmp://kanal-avrupalivefs.fplive.net/kanal-avrupalive-live/_definst_/stream1 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,BENGÜTÜRK TV
 rtmp://yayin8.canliyayin.org/benguturk/benguturk
+#EXTINF:-1,MEHTAP TV
+http://vivisolivegrp01-lh.akamaihd.net/i/mehtaptv_1@398170/index_270_av-b.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,MELTEM TV
 http://37.75.10.20:80/meltemtvcanli/meltemtvcanli/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL T
@@ -158,6 +151,8 @@ rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
 rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
 #EXTINF:-1 $ExtFilter=" SPOR" ,BURSASPOR TV
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
+#EXTINF:-1,YUMURCAK TV
+http://vivisolive-lh.akamaihd.net/i/syg_backup3_1@383108/index_360_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 $ExtFilter=" ÇOCUK" ,TRT ÇOCUK
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
@@ -433,7 +428,12 @@ http://edge02.streamgate.nl/live/omroepflevoland/smil:flevo_livestream.smil/play
 http://lb-rtvnh-live.streamgate.nl/rtvnh/live/tvnh1/playlist.m3u8
 #EXTINF:-1,SUPERLI G MAC YAYINLARI
 http://92.222.205.40:8080/superlig
-
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,FUTBOL TEST
+http://cdn.step-tv.com:8000/live/persianshare/skype/390.ts
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,FUTBOL TEST 1
+http://cdn.step-tv.com:8000/live/persianshare/skype/391.ts
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,FUTBOL TEST 2
+http://cdn.step-tv.com:8000/live/persianshare/skype/392.ts
 
 
 
