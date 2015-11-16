@@ -5,8 +5,12 @@ http://212.224.108.80/S1/HLS_LIVE/kanald/500/prog_index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL D yedek
 http://media.netd.com.tr/S1/HLS_LIVE/kanald/750/prog_index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,STAR TV
+http://ift.tt/1PO9Fkl
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,STAR TV yedek
 http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,ATV
+http://ift.tt/1UJ35kn
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,ATV yedek
 http://origin.live.web.tv.streamprovider.net/streams/0a982dbefc5e9d29952bda5a981a9c6d_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,SHOW TV
 http://mn-l.mncdn.com/showtv/showtv1/playlist.m3u8
@@ -84,6 +88,8 @@ http://sol.trtcdn.com/tv/trthaber/smil:trthaber.smil/chunklist_w1566915298_b6656
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,CNN TÜRK Seçenek 2
 http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 $ExtFilter=" HABER" ,CNN TÜRK Seçenek 3
+http://ift.tt/1QTrG33
 #EXTINF:-1 $ExtFilter=" HABER" ,NTV
 http://origin2.live.web.tv.streamprovider.net/streams/725528006e858fe951867f4e2436843f_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,360
@@ -104,6 +110,8 @@ http://tgrthaber.mediatriple.net:1935/tgrtliveedge/smil:tgrt.smil/Playlist.m3u8
 http://tgrteu.mediatriple.net:1935/tgrteuliveedge/smil:tgrt.smil/Playlist.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,ÜLKE TV
 http://livetr.gostream.nl/ulketvhq/ulketvhq/playlist.m3u8
+#EXTINF:-1 $ExtFilter=" HABER" ,ÜLKE TV 2
+http://ift.tt/1UJ30x7
 #EXTINF:-1 $ExtFilter=" HABER" ,TVNET
 rtmp://91.93.118.165/tvnet/livestream
 #EXTINF:-1 $ExtFilter=" HABER" ,KANAL B
