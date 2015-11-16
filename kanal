@@ -437,8 +437,30 @@ http://50.7.207.114/sinema4/udp/239.99.4.0:5004
 http://50.7.207.114/sinema5/udp/239.99.4.0:5005
 #EXTINF:-1,Sinema 5006
 http://50.7.207.114/sinema6/udp/239.99.4.0:5006
-
-
+#EXTINF:-1,NPO 1
+http://l2cm036f34582300564a674b000000.547f9e588067d5c6.kpnsmoote2f.npostreaming.nl/d/live/npo/tvlive/ned1/ned1.isml/ned1-audio=128000-video=900000.m3u8
+#EXTINF:-1,NPO 2
+http://l2cmfef46cea3500564a67f7000000.f428d430d6cf9108.kpnsmoote1f.npostreaming.nl/d/live/npo/tvlive/ned2/ned2.isml/ned2-audio=128000-video=900000.m3u8
+#EXTINF:-1,NPO 3
+http://l2cm40c4bb08df00564a686c000000.d9779801187333e9.kpnsmoote2e.npostreaming.nl/d/live/npo/tvlive/ned3/ned3.isml/ned3-audio=128000-video=900000.m3u8
+#EXTINF:-1,NPO ZAPPELIN
+http://l2cm724355227d00564a690e000000.d88cff3b58f747a0.kpnsmoote2d.npostreaming.nl/d/live/npo/thematv/zappelin24/zappelin24.isml/zappelin24-audio=128000-video=900000.m3u8
+#EXTINF:-1,NPO NIEUWS
+http://l2cm0f65985ac700564a6974000000.864dc751396b2d2e.kpnsmoote1a.npostreaming.nl/d/live/npo/thematv/journaal24/journaal24.isml/journaal24-audio=128000-video=900000.m3u8
+#EXTINF:-1,NPO CULTURA
+http://l2cmc5e388527400564a69f3000000.ad351a45b545e38b.kpnsmoote1c.npostreaming.nl/d/live/npo/thematv/cultura24/cultura24.isml/cultura24-audio=128000-video=900000.m3u8
+#EXTINF:-1,NPO 101
+http://l2cm41a6c1505b00564a6a67000000.b86ebd8311ddd0af.kpnsmoote2f.npostreaming.nl/d/live/npo/thematv/101tv/101tv.isml/101tv-audio=128000-video=900000.m3u8
+#EXTINF:-1,NPO POLITIEK
+http://l2cm4c72f478f400564a6afa000000.f659cf9764166dd4.kpnsmoote1f.npostreaming.nl/d/live/npo/thematv/politiek24/politiek24.isml/politiek24-audio=128000-video=900000.m3u8
+#EXTINF:-1,NPO BEST
+http://l2cm34ca1286cb00564a6b43000000.c4160906250bf9c0.kpnsmoote2f.npostreaming.nl/d/live/npo/thematv/best24/best24.isml/best24-audio=128000-video=900000.m3u8
+#EXTINF:-1,NPO DOCU
+http://l2cm5a85e180ad00564a6ba4000000.9421b8f99fb668dc.kpnsmoote2g.npostreaming.nl/d/live/npo/thematv/hollanddoc24/hollanddoc24.isml/hollanddoc24-audio=128000-video=900000.m3u8
+#EXTINF:-1,NPO ZAPP XTRA
+http://l2cmb3a671763800564a6bf0000000.9660b19ab3fe27fe.kpnsmoote2b.npostreaming.nl/d/live/npo/thematv/zappelin24/zappelin24.isml/zappelin24-audio=128000-video=900000.m3u8
+#EXTINF:-1,NPO HUMOR TV
+http://l2cm794529ac5f00564a6c46000000.5a321a5f2f1a7884.kpnsmoote1e.npostreaming.nl/d/live/npo/thematv/humor24/humor24.isml/humor24-audio=128000-video=900000.m3u8
 #EXTINF:-1,NL Omroep Zeeland TV
 rtmp://livestream.zeelandnet.nl/live/omroepzeeland_tv_200k.sdp
 #EXTINF:-1,NL RTV Drenthe
