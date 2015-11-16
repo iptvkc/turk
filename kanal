@@ -33,8 +33,9 @@ http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT HD Seçenek 2
 http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/index_600_av-p.m3u8?sd=10
-
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 7
+http://ift.tt/1UJ35AS
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 7 Seçenek 2
 http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 7 AVRUPA
 http://livetr.gostream.nl/kanal7int/kanal7int/playlist.m3u8
@@ -227,24 +228,36 @@ mmsh://yayin.networkbil.com/kanalm?MSWMExt=.asf
 rtmp://win5.yayinda.org/telecine/telecine
 #EXTINF:-1 $ExtFilter="SİNEMA" ,FİL TV HD
 http://gg.gg/filtvhd
+#EXTINF:-1 $ExtFilter="SİNEMA" ,DOLUNAY
+http://ift.tt/1PO9y8u
 #EXTINF:-1,TARIM TV
 http://ms.n1.tvkur.noccdn.com/cdn/540ea58191866/playlist.m3u8
 #EXTINF:-1,TARIM TURK
 http://yayin3.canlitv.com:1935/live/tarimturktv/HasBahCa.m3u8
 #EXTINF:-1,BEREKET HAYVAN
 rtmp://77.92.139.130:1935/berekethayvan/berekethayvan3
+#EXTINF:-1,KON TV
+http://ift.tt/1FYVSCZ
 #EXTINF:-1,BURSA OLAY
 rtmp://canli.olaytv.com.tr:1935/olaytv/olaytv
 #EXTINF:-1,BURSA AS
 http://yayin3.canlitv.com:1935/live/astv/radyodelisi.m3u8
+#EXTINF:-1,SAMSUN 55
+http://ift.tt/1Hahf41
 #EXTINF:-1,KAYSERI TV
 rtmp://yayin3.canliyayin.org/tvkayseri/tvkayseri
 #EXTINF:-1,KAYSERI TV1
 rtmp://stream.taksimbilisim.com:1935/tv1/bant1
 #EXTINF:-1,SIVAS SRT
 rtmp://stream.taksimbilisim.com:1935/srt/bant1
-
-
+#EXTINF:-1,AKSARAY 68
+http://ift.tt/1RWICHw
+#EXTINF:-1,KAPADOKYA TV
+http://ift.tt/1RWIEPn
+#EXTINF:-1,MERCAN
+http://ift.tt/1RWIEPr
+#EXTINF:-1,KONYA SUN
+http://ift.tt/1FYVQel
 #EXTINF:-1 $ExtFilter="SİNEMA" ,PLANET PEMBE
 rtmp://77.223.146.117/live/planetp
 #EXTINF:-1 $ExtFilter="SİNEMA" ,PLANET PEMBE Seçenek 2
@@ -253,7 +266,8 @@ rtmp://edge04-07.az.myvideo.az/dvrh264/planetpembe/planetpembe
 rtmp://77.223.146.117/live/planett
 #EXTINF:-1 $ExtFilter="SİNEMA" ,PLANET TÜRK Seçenek 2
 rtmp://edge04-07.az.myvideo.az/dvrh264/planetturk/planetturk
-
+#EXTINF:-1 $ExtFilter="SİNEMA" ,MEDYAM 24
+http://ift.tt/1PO9yoS
 #EXTINF:-1 $ExtFilter="SİNEMA" ,SİNEMATÜRK
 http://live.netd.com.tr/S1/HLS_LIVE/taksim/1000/prog_index.m3u8
 #EXTINF:-1 $ExtFilter="SİNEMA" ,NETD TURK HD
@@ -286,8 +300,8 @@ rtmp://s01.speednext.com:1935/ogunhaber/ogunhaber
 http://kozatv.garantisistem.com:1935/kozatv/kozatv2/HasBahCa.m3u8
 #EXTINF:-1,HABER 61
 rtmp://win8.yayinda.org/haber61tv/haber61tv
-
-
+#EXTINF:-1,KANAL S
+http://ift.tt/1d9OBZF
 #EXTINF:-1 $ExtFilter="BELGESEL" ,HISTORY DOCUMANTARY TR 
 http://proiptv.dyndns.tv:7088
 #EXTINF:-1 $ExtFilter="BELGESEL" ,TRT BELGESEL
