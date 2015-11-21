@@ -62,6 +62,8 @@ http://origin.live.web.tv.streamprovider.net/streams/9044496707bcc259f6cdf58eb93
 http://origin.live.web.tv.streamprovider.net/streams/5dac5e87d17d40f5bca18d2b211a4dd2_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,CİNE5
 rtmp://cine5.stream.cubecdn.net/cine5/stream_1
+#EXTINF:-1,SAMANYOLU HABER yedek
+curl 'http://vivisolivegrp01-lh.akamaihd.net/i/shabertv_1@398173/index_360_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,SAMANYOLU HABER 
 http://vivisolive-lh.akamaihd.net/i/syg_backup2_1@382438/index_360_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,MC TV
