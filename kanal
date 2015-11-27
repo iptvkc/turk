@@ -69,7 +69,7 @@ http://vivisolive-lh.akamaihd.net/i/syg_backup2_1@382438/index_360_av-b.m3u8?sd=
 #EXTINF:-1,MC TV
 http://vivisolivegrp01-lh.akamaihd.net/i/mceutv_1@398167/index_270_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,BEYAZ TV
-
+http://3srvtaxxu.euteam.net:10200/api/v1/iptv/channels/play/2253/2130/Gb7NnjMXnnmnTcK69XaSU4Gc9Ox8iP/234
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL A
 http://yayin.yayin.tv.tr:1935/kanala/kanala1/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT TÜRK
