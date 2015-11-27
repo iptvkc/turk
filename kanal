@@ -488,9 +488,9 @@ http://edge02.streamgate.nl/live/omroepflevoland/smil:flevo_livestream.smil/play
 http://lb-rtvnh-live.streamgate.nl/rtvnh/live/tvnh1/playlist.m3u8
 #EXTINF:-1,SUPERLI G MAC YAYINLARI
 http://92.222.205.40:8080/superlig
-#EXTINF:-1 $ExtFilter=" ULUSAL" ,TEST
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,ZUGURT AGA TEST
 http://ia601509.us.archive.org/32/items/84645/Zugurt_Aga_1985.mp4
-#EXTINF:-1 $ExtFilter=" ULUSAL" ,TEST 1
+#EXTINF:-1 $ExtFilter=" ULUSAL" , CAKALLARLA DANS 2 TEST
 http://vod02.myvideo.az/flv/181/1802546.mp4
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TEST 2
 http://cdn.step-tv.com:8000/live/persianshare/skype/392.ts
