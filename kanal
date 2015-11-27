@@ -488,11 +488,11 @@ http://edge02.streamgate.nl/live/omroepflevoland/smil:flevo_livestream.smil/play
 http://lb-rtvnh-live.streamgate.nl/rtvnh/live/tvnh1/playlist.m3u8
 #EXTINF:-1,SUPERLI G MAC YAYINLARI
 http://92.222.205.40:8080/superlig
-#EXTINF:-1 $ExtFilter=" ULUSAL" ,FUTBOL TEST
-http://cdn.step-tv.com:8000/live/persianshare/skype/390.ts
-#EXTINF:-1 $ExtFilter=" ULUSAL" ,FUTBOL TEST 1
-http://cdn.step-tv.com:8000/live/persianshare/skype/391.ts
-#EXTINF:-1 $ExtFilter=" ULUSAL" ,FUTBOL TEST 2
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TEST
+http://ia601509.us.archive.org/32/items/84645/Zugurt_Aga_1985.mp4
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TEST 1
+http://vod02.myvideo.az/flv/181/1802546.mp4
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TEST 2
 http://cdn.step-tv.com:8000/live/persianshare/skype/392.ts
 
 
