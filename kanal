@@ -488,14 +488,24 @@ http://edge02.streamgate.nl/live/omroepflevoland/smil:flevo_livestream.smil/play
 http://lb-rtvnh-live.streamgate.nl/rtvnh/live/tvnh1/playlist.m3u8
 #EXTINF:-1,SUPERLI G MAC YAYINLARI
 http://92.222.205.40:8080/superlig
-#EXTINF:-1 $ExtFilter=" ULUSAL" ,ZUGURT AGA TEST
+#EXTINF:-1,FILMLER TEST
+
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,ZUGURT AGA 
 http://ia601509.us.archive.org/32/items/84645/Zugurt_Aga_1985.mp4
-#EXTINF:-1 $ExtFilter=" ULUSAL" , CAKALLARLA DANS 2 TEST
+#EXTINF:-1 $ExtFilter=" ULUSAL" , CAKALLARLA DANS 
+http://vod02.myvideo.az/flv/181/1801616.mp4
+#EXTINF:-1 $ExtFilter=" ULUSAL" , CAKALLARLA DANS 2 
 http://vod02.myvideo.az/flv/181/1802546.mp4
-#EXTINF:-1 $ExtFilter=" ULUSAL" ,TEST 2
-http://cdn.step-tv.com:8000/live/persianshare/skype/392.ts
-
-
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,Anadolu kartallari
+http://vod02.myvideo.az/flv/181/1801702.mp4
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,AY LAV YU
+http://vod03.myvideo.az/flv/182/1817847.mp4
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,CM101MMXI Fundamental
+http://vod02.myvideo.az/flv/182/1814633.mp4
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,EVIM SENSIN
+http://vod02.myvideo.az/flv/180/1799543.mp4
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,GORA
+http://vod02.myvideo.az/flv/181/1807687.mp4
 
  
 
