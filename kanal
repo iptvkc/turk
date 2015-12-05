@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 IPTV KAMIL
+#EXTINF:-1,----IPTV KAMIL----
 http://212.224.108.80/S1/HLS_LIVE/kanald/500/prog_index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL D
 http://212.224.108.80/S1/HLS_LIVE/kanald/500/prog_index.m3u8
@@ -491,7 +491,8 @@ http://lb-rtvnh-live.streamgate.nl/rtvnh/live/tvnh1/playlist.m3u8
 #EXTINF:-1,SUPERLI G MAC YAYINLARI
 http://92.222.205.40:8080/superlig
 
-#EXTINF:-1,YEDEKLER KAMIL
+#EXTINF:-1,----YEDEKLER KAMIL-----
+
 #EXTINF:-1,ATV HD
 http://hdtvizle.ru/14452/71930/71968/atv.m3u8
 
@@ -612,7 +613,26 @@ http://hdtvizle.ru/14452/71930/71968/iptv/tv3.m3u8
 #EXTINF:-1,TV 1000
 http://hdtvizle.ru/14452/71930/71968/iptv/tv1000.m3u8
 
-#EXTINF:-1,FILMLER TEST
+#EXTINF:-1,CBC AZERBAYCAN
+http://hdtvizle.ru/14452/71930/71968/cbcaz.m3u8
+
+#EXTINF:-1,LIDER TV
+http://hdtvizle.ru/14452/71930/71968/lidertv.m3u8
+
+#EXTINF:-1,iTV
+http://hdtvizle.ru/14452/71930/71968/itv.m3u8
+
+#EXTINF:-1,REGION TV
+http://hdtvizle.ru/14452/71930/71968/region.m3u8
+
+#EXTINF:-1,AZ TV
+http://hdtvizle.ru/14452/71930/71968/aztv.m3u8
+
+#EXTINF:-1,Turkel TV
+http://hdtvizle.ru/14452/71930/71968/turkel.m3u8
+
+
+#EXTINF:-1,----FILMLER TEST----
 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,ZUGURT AGA 
 http://ia601509.us.archive.org/32/items/84645/Zugurt_Aga_1985.mp4
