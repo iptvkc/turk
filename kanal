@@ -633,5 +633,15 @@ http://vod02.myvideo.az/flv/180/1799543.mp4
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,GORA
 http://vod02.myvideo.az/flv/181/1807687.mp4
 
+#EXTINF:-1,----FUTBOL TEST----
+
+#EXTINF:-1,FUTBOL 1
+rtmp://185.63.255.26/live//websporr10
+#EXTINF:-1,FUTBOL 2
+rtmp://64.12.246.38/dev_stable//c3
+#EXTINF:-1,FUTBOL 3
+http://5.196.82.222:8000/live/norton/norton/985.ts
+
+
  
 
