@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 IPTV KAMIL
+
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL D
 http://212.224.108.80/S1/HLS_LIVE/kanald/500/prog_index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL D yedek
@@ -488,6 +490,128 @@ http://edge02.streamgate.nl/live/omroepflevoland/smil:flevo_livestream.smil/play
 http://lb-rtvnh-live.streamgate.nl/rtvnh/live/tvnh1/playlist.m3u8
 #EXTINF:-1,SUPERLI G MAC YAYINLARI
 http://92.222.205.40:8080/superlig
+
+#EXTINF:-1,YEDEKLER KAMIL
+#EXTINF:-1,ATV HD
+http://hdtvizle.ru/14452/71930/71968/atv.m3u8
+
+#EXTINF:-1,ATV SD
+http://hdtvizle.ru/14452/71930/71968/atvsd.m3u8
+
+#EXTINF:-1,ATV AVRUPA
+http://hdtvizle.ru/14452/71930/71968/atvavrupa.m3u8
+
+#EXTINF:-1,KANAL D
+http://hdtvizle.ru/14452/71930/71968/kanald.m3u8
+
+#EXTINF:-1,STAR TV 
+http://hdtvizle.ru/14452/71930/71968/star.m3u8
+
+#EXTINF:-1,SAMANYOLU TV
+http://hdtvizle.ru/14452/71930/71968/stv.m3u8
+
+#EXTINF:-1,BEYAZ TV
+http://hdtvizle.ru/14452/71930/71968/beyaz.m3u8
+
+#EXTINF:-1,TV 2 SD
+http://hdtvizle.ru/14452/71930/71968/tv2.m3u8
+
+#EXTINF:-1,MC TV
+http://hdtvizle.ru/14452/71930/71968/mctv.m3u8
+
+#EXTINF:-1,TRT SPOR
+http://hdtvizle.ru/14452/71930/71968/trts.m3u8
+
+#EXTINF:-1,A SPOR 
+http://hdtvizle.ru/14452/71930/71968/aspor1.m3u8
+
+#EXTINF:-1,NTV SPOR
+http://hdtvizle.ru/14452/71930/71968/ntvs.m3u8
+
+#EXTINF:-1,POWER TURK SD
+http://hdtvizle.ru/14452/71930/71968/power.m3u8
+
+#EXTINF:-1,VIVA TV
+http://hdtvizle.ru/14452/71930/71968/viva.m3u8
+
+#EXTINF:-1,DREAM TURK
+http://hdtvizle.ru/14452/71930/71968/dreamt.m3u8
+
+#EXTINF:-1,GENC TV
+http://hdtvizle.ru/14452/71930/71968/genc.m3u8
+
+#EXTINF:-1,NUMBER TURK
+http://hdtvizle.ru/14452/71930/71968/nr1.m3u8
+
+#EXTINF:-1,TMB
+http://hdtvizle.ru/14452/71930/71968/tmb.m3u8
+
+#EXTINF:-1,A HABER
+http://hdtvizle.ru/14452/71930/71968/ahaber.m3u8
+
+#EXTINF:-1,HALK TV 
+http://hdtvizle.ru/14452/71930/71968/halk.m3u8
+
+#EXTINF:-1,TGRT HABER 
+http://hdtvizle.ru/14452/71930/71968/tgrth.m3u8
+
+#EXTINF:-1,CNN TURK SD
+http://hdtvizle.ru/14452/71930/71968/cnn.m3u8
+
+#EXTINF:-1,TRT HABER SD
+http://hdtvizle.ru/14452/71930/71968/trthsd.m3u8
+
+#EXTINF:-1,AKILLI TV
+http://hdtvizle.ru/14452/71930/71968/akilli.m3u8
+
+#EXTINF:-1,TGRT Belgesel 
+http://hdtvizle.ru/14452/71930/71968/tgrtb.m3u8
+
+#EXTINF:-1,TRT BELGESEL HD 
+http://hdtvizle.ru/14452/71930/71968/trtb.m3u8
+
+#EXTINF:-1,TRT BELGESEL SD 
+http://hdtvizle.ru/14452/71930/71968/trtbsd.m3u8
+
+#EXTINF:-1,YABAN TV
+http://hdtvizle.ru/14452/71930/71968/yaban.m3u8
+
+#EXTINF:-1,World Travel Channel
+http://hdtvizle.ru/14452/71930/71968/wtc.m3u8
+
+#EXTINF:-1,CN NETWORK
+http://hdtvizle.ru/14452/71930/71968/cn.m3u8
+
+#EXTINF:-1,PLANET TURK
+http://hdtvizle.ru/14452/71930/71968/pturk.m3u8
+
+#EXTINF:-1,ANADOLU YURDUM
+http://hdtvizle.ru/14452/71930/71968/an.m3u8
+
+#EXTINF:-1,MEDIYA TV
+http://hdtvizle.ru/14452/71930/71968/medya.m3u8
+
+#EXTINF:-1,BERRAK TV
+http://hdtvizle.ru/14452/71930/71968/nehir.m3u8
+
+#EXTINF:-1,TRT Avaz SD
+http://hdtvizle.ru/14452/71930/71968/trtavaz.m3u8
+
+#EXTINF:-1,TRT Avaz HD
+http://hdtvizle.ru/14452/71930/71968/trtavazhd.m3u8
+
+#EXTINF:-1,TLC TV 
+http://hdtvizle.ru/14452/71930/71968/tlc.m3u8
+
+#EXTINF:-1,RBK TV
+http://hdtvizle.ru/14452/71930/71968/iptv/rbktv.m3u8
+
+#EXTINF:-1,TV 3
+http://hdtvizle.ru/14452/71930/71968/iptv/tv3.m3u8
+
+#EXTINF:-1,TV 1000
+http://hdtvizle.ru/14452/71930/71968/iptv/tv1000.m3u8
+
 #EXTINF:-1,FILMLER TEST
 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,ZUGURT AGA 
