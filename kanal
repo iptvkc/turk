@@ -641,7 +641,10 @@ rtmp://185.63.255.26/live//websporr10
 rtmp://64.12.246.38/dev_stable//c3
 #EXTINF:-1,FUTBOL 3
 http://5.196.82.222:8000/live/norton/norton/985.ts
-
+#EXTINF:-1,FUTBOL 4
+http://proxiiptv.dyndns.tv:8000/live/Nihad2/Nihad2/490.ts
+#EXTINF:-1,FUTBOL 5
+rtmp://94.176.148.213:443/liveedge//websportvO3Q
 
  
 
