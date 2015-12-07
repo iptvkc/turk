@@ -14,8 +14,12 @@ http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f1850612
 http://ift.tt/1UJ35kn
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,ATV yedek
 http://origin.live.web.tv.streamprovider.net/streams/0a982dbefc5e9d29952bda5a981a9c6d_live_0_0/index.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,ATV AVRUPA
+http://hdtvizle.ru/14452/71930/71968/atvavrupa.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,SHOW TV
 http://mn-l.mncdn.com/showtv/showtv1/playlist.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,SHOW TV 2
+http://live-ciner.mncdn.net/showtv/showtv2/HasBahCa.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,SHOW TV yedek
 http://origin2.live.web.tv.streamprovider.net/streams/1c3194be3e42b53e3b61831517eb972a_live_0_0/index.m3u8
 #EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SHOW TÜRK 
@@ -32,6 +36,8 @@ http://vivisolivegrp01-lh.akamaihd.net/i/stveu_1@398191/index_180_av-b.m3u8?sd=1
 http://85.111.14.2:80/r_foxtv/foxtv3/playlist.m3u8 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,FOX TURK yedek
 http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,FOX TURK yedek
+http://hdtvizle.ru/14452/71930/71968/foxtv.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT 1 HD
 http://ift.tt/1wlhiE2
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT 1 HD yedek
@@ -47,7 +53,7 @@ http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 7 AVRUPA
 http://livetr.gostream.nl/kanal7int/kanal7int/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TV8
-http://yayin6.canlitv.com:1935/live/tv8/chunklist_w1348996191.m3u8
+http://31.186.24.233:8011/1
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TV8 int
 http://bak01-edge03.itdc.ge/tv8/index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANALTÜRK
@@ -73,7 +79,7 @@ http://vivisolivegrp01-lh.akamaihd.net/i/mctv_1@398169/index_270_av-p.m3u8?sd=10
 #EXTINF:-1,SAMANYOLU HABER
 http://vivisolivegrp01-lh.akamaihd.net/i/mceutv_1@398167/index_270_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,BEYAZ TV
-
+http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL A
 http://yayin.yayin.tv.tr:1935/kanala/kanala1/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT TÜRK
@@ -191,6 +197,8 @@ rtmp://77.223.146.117/live/planetc
 http://edge.ailetv.net/org1/planetcocuk_me/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" ÇOCUK" ,CARTOON NETWORK
 http://origin.live.web.tv.streamprovider.net/streams/e0abd0b3943ae7bbcff8e3b570ef4612_live_0_0/index.m3u8
+#EXTINF:-1 $ExtFilter=" ÇOCUK" ,DISNEY CHANNEL
+http://212.224.108.83/S2/HLS_LIVE/disney/track_4_1000/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" ÇOCUK" ,MİNİKA GO
 http://origin.live.web.tv.streamprovider.net/streams/24b429ab889afc37becb9e59ff84820c_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" ÇOCUK" ,MİNİKA ÇOCUK
@@ -252,6 +260,8 @@ http://ms.n1.tvkur.noccdn.com/cdn/540ea58191866/playlist.m3u8
 http://yayin3.canlitv.com:1935/live/tarimturktv/HasBahCa.m3u8
 #EXTINF:-1,BEREKET HAYVAN
 rtmp://77.92.139.130:1935/berekethayvan/berekethayvan3
+#EXTINF:-1,ANIMAL BOX
+http://31.186.24.233:8009/1
 #EXTINF:-1,KON TV
 http://ift.tt/1FYVSCZ
 #EXTINF:-1,BURSA OLAY
@@ -495,6 +505,7 @@ http://edge02.streamgate.nl/live/omroepflevoland/smil:flevo_livestream.smil/play
 http://lb-rtvnh-live.streamgate.nl/rtvnh/live/tvnh1/playlist.m3u8
 #EXTINF:-1,SUPERLI G MAC YAYINLARI
 http://92.222.205.40:8080/superlig
+
 
 #EXTINF:-1,          ----YEDEKLER KAMIL-----
 #EXTINF:-1,STAR TV
