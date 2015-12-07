@@ -7,7 +7,7 @@ http://212.224.108.80/S1/HLS_LIVE/kanald/500/prog_index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL D yedek
 http://media.netd.com.tr/S1/HLS_LIVE/kanald/750/prog_index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,STAR TV
-http://ift.tt/1PO9Fkl
+http://yayin5.canlitv.com:1935/live/startv1/playlist.m3u8 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,STAR TV yedek
 http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,ATV
@@ -153,7 +153,8 @@ rtmp://kanal-avrupalivefs.fplive.net/kanal-avrupalive-live/_definst_/stream1
 rtmp://yayin8.canliyayin.org/benguturk/benguturk
 #EXTINF:-1,MEHTAP TV
 http://vivisolivegrp01-lh.akamaihd.net/i/mehtaptv_1@398170/index_270_av-b.m3u8?sd=10&rebase=on
-
+#EXTINF:-1,TVA ADANA
+http://yayin3.canliyayin.org:1935/tva/tva/playlist.m3u
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,MELTEM TV
 http://37.75.10.20:80/meltemtvcanli/meltemtvcanli/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL T
@@ -450,6 +451,8 @@ http://50.7.207.114/sinema4/udp/239.99.4.0:5004
 http://50.7.207.114/sinema5/udp/239.99.4.0:5005
 #EXTINF:-1,Sinema 5006
 http://50.7.207.114/sinema6/udp/239.99.4.0:5006
+
+#EXTINF:-1,          ----NEDERLAND-----
 #EXTINF:-1,NPO 1
 http://l2cm036f34582300564a674b000000.547f9e588067d5c6.kpnsmoote2f.npostreaming.nl/d/live/npo/tvlive/ned1/ned1.isml/ned1-audio=128000-video=900000.m3u8
 #EXTINF:-1,NPO 2
@@ -491,7 +494,9 @@ http://lb-rtvnh-live.streamgate.nl/rtvnh/live/tvnh1/playlist.m3u8
 #EXTINF:-1,SUPERLI G MAC YAYINLARI
 http://92.222.205.40:8080/superlig
 
-#EXTINF:-1,----YEDEKLER KAMIL-----
+#EXTINF:-1,          ----YEDEKLER KAMIL-----
+#EXTINF:-1,STAR TV
+http://yayin5.canlitv.com:1935/live/startv1/playlist.m3u8 
 
 #EXTINF:-1,ATV HD
 http://hdtvizle.ru/14452/71930/71968/atv.m3u8
@@ -614,7 +619,7 @@ http://hdtvizle.ru/14452/71930/71968/iptv/tv3.m3u8
 http://hdtvizle.ru/14452/71930/71968/iptv/tv1000.m3u8
 
 
-#EXTINF:-1,----FILMLER TEST----
+#EXTINF:-1,       ----FILMLER TEST----
 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,ZUGURT AGA 
 http://ia601509.us.archive.org/32/items/84645/Zugurt_Aga_1985.mp4
@@ -633,7 +638,7 @@ http://vod02.myvideo.az/flv/180/1799543.mp4
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,GORA
 http://vod02.myvideo.az/flv/181/1807687.mp4
 
-#EXTINF:-1,----FUTBOL TEST----
+#EXTINF:-1,      ----FUTBOL TEST----
 
 #EXTINF:-1,FUTBOL 1
 rtmp://185.63.255.26/live//websporr10
