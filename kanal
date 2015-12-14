@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,          ----*IPTV KAMIL*-----
-http://212.224.108.80/S1/HLS_LIVE/kanald/500/prog_index.m3u8
+hthttp://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&live=true&app=com.kanald&min=0&max=1250tp://212.224.108.80/S1/HLS_LIVE/kanald/500/prog_index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL D
 http://212.224.108.80/S1/HLS_LIVE/kanald/500/prog_index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL D yedek
@@ -53,9 +53,12 @@ http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 7 AVRUPA
 http://livetr.gostream.nl/kanal7int/kanal7int/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TV8
+http://tv8.viviso.tv/staging_live_stream.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TV8 yedek
 http://31.186.24.233:8011/1
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TV8 int
 http://bak01-edge03.itdc.ge/tv8/index.m3u8
+
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANALTÜRK
 http://kanalturk-live.ercdn.com/kanalturk.m3u8  
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,FLASH TV
@@ -383,8 +386,8 @@ http://ans-ng.ercdn.com/ans/live/anstv.m3u8
 
 #EXTINF:-1 $ExtFilter="TÜRKİ" ,ATV Azerbaycan
 http://85.132.81.184:8080/atvlive/atv/index.m3u8
-
-
+#EXTINF:-1 $ExtFilter="TÜRKİ" ,AZ TV Azerbaycan
+http://85.132.71.6/mylive/aztv/index.m3u8
 
 #EXTINF:-1 $ExtFilter="TÜRKİ" ,CTV Azerbaycan
 http://85.132.81.184:8080/ctv/live/index.m3u8
@@ -930,11 +933,11 @@ http://vod03.myvideo.az/flv/182/1817851.mp4?start=0
 #EXTINF:-1,      ----FUTBOL TEST----
 
 #EXTINF:-1,FUTBOL 1
-rtmp://185.63.255.26/live//websporr10
+http://185.63.255.26/live/ch1/chunks.m3u8
 #EXTINF:-1,FUTBOL 2
-rtmp://64.12.246.38/dev_stable//c3
+rtmp://185.63.255.26/live//websporr10
 #EXTINF:-1,FUTBOL 3
-http://5.196.82.222:8000/live/norton/norton/985.ts
+http://185.63.255.26/live/ch1/chunks.m3u8
 #EXTINF:-1,FUTBOL 4
 http://proxiiptv.dyndns.tv:8000/live/Nihad2/Nihad2/490.ts
 #EXTINF:-1,FUTBOL 5
