@@ -21,9 +21,11 @@ http://origin.live.web.tv.streamprovider.net/streams/0a982dbefc5e9d29952bda5a981
 http://hdtvizle.ru/14452/71930/71968/atvavrupa.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,SHOW TV
 http://mn-l.mncdn.com/showtv/showtv1/playlist.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,SHOW TV 1
+http://mn-l.mncdn.com/showturktv/showturktv2/HasBahCa.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,SHOW TV 2
 http://live-ciner.mncdn.net/showtv/showtv2/HasBahCa.m3u8
-#EXTINF:-1 $ExtFilter=" ULUSAL" ,SHOW TV yedek
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,SHOW TV 3
 http://origin2.live.web.tv.streamprovider.net/streams/1c3194be3e42b53e3b61831517eb972a_live_0_0/index.m3u8
 #EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SHOW TÜRK 
 http://mn-l.mncdn.com/showturktv/showturktv1/HasBahCa.m3u8
