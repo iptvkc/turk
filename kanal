@@ -2,12 +2,15 @@
 
 #EXTINF:-1,          ----*IPTV KAMIL*-----
 hthttp://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&live=true&app=com.kanald&min=0&max=1250tp://212.224.108.80/S1/HLS_LIVE/kanald/500/prog_index.m3u8
+
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL D
+http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL D (yedek)
 http://212.224.108.80/S1/HLS_LIVE/kanald/500/prog_index.m3u8
-#EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL D yedek
-http://media.netd.com.tr/S1/HLS_LIVE/kanald/750/prog_index.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL D (yedek 1)
+http://212.224.108.84/S1/HLS_LIVE/kanald/750/prog_index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,STAR TV
-http://hasbahcaiptv.com/iptv/tr/HasBahCa_STARTV.m3u8
+http://www.iptvsaga.com/play/tv3/0063.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,STAR TV yedek
 http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,ATV
@@ -99,6 +102,8 @@ mmsh://yayin3.canliyayin.org/tv5
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TV5 Seçenek 2
 http://origin.live.web.tv.streamprovider.net/streams/2a6b8773facea199a116b28119c87b55_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,SEMERKAND TV
+rtmp://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,SEMERKAND TV (yedek)
 http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/Playlist.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT OKUL
 http://sol.trtcdn.com/tv/trtokul/smil:trtokul.smil/playlist.m3u8
