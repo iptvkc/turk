@@ -14,6 +14,8 @@ http://188.72.131.226/star.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,STAR TV yedek
 http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,ATV
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,ATV (1)
 http://www.iptvsaga.com/play/tv3/0041.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,ATV yedek
 http://origin.live.web.tv.streamprovider.net/streams/0a982dbefc5e9d29952bda5a981a9c6d_live_0_0/index.m3u8
@@ -63,6 +65,8 @@ http://tv8.viviso.tv/staging_live_stream.m3u8
 http://31.186.24.233:8011/1
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TV8 int
 http://bak01-edge03.itdc.ge/tv8/index.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,BUGÜN TV
+http://buguntv-live.ercdn.com/buguntv1.m3u8
 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANALTÜRK
 http://kanalturk-live.ercdn.com/kanalturk.m3u8  
@@ -167,8 +171,10 @@ http://vivisolivegrp01-lh.akamaihd.net/i/backup1_1@398192/index_270_av-b.m3u8?sd
 #EXTINF:-1 $ExtFilter=" ULUSAL",AKİT TV
 http://origin2.live.web.tv.streamprovider.net/streams/bff43380440cfe9d5b937f4a61723bed/index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL AVRUPA
-rtmp://kanal-avrupalivefs.fplive.net/kanal-avrupalive-live/_definst_/stream1 
+rtmp://kanal-avrupalivefs.fplive.net/kanal-avrupalive-live/_definst_/stream1
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,BENGÜTÜRK TV
+http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8?wowzasessionid=1640816579
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,BENGÜTÜRK TV (yedek)
 rtmp://yayin8.canliyayin.org/benguturk/benguturk
 #EXTINF:-1,MEHTAP TV
 http://vivisolivegrp01-lh.akamaihd.net/i/mehtaptv_1@398170/index_270_av-b.m3u8?sd=10&rebase=on
