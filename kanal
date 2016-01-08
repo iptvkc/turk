@@ -63,7 +63,9 @@ http://livetr.gostream.nl/kanal7int/kanal7int/playlist.m3u8
 http://tv8.viviso.tv/staging_live_stream.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TV8 yedek
 http://31.186.24.233:8011/1
-#EXTINF:-1 $ExtFilter=" ULUSAL" ,TV8 int
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TV8 int 
+http://ift.tt/1PO9u8G
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TV8 int yedek
 http://bak01-edge03.itdc.ge/tv8/index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,BUGÜN TV
 http://buguntv-live.ercdn.com/buguntv1.m3u8
