@@ -70,10 +70,9 @@ http://buguntv-live.ercdn.com/buguntv1.m3u8
 http://kanalturk-live.ercdn.com/kanalturk.m3u8  
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,FLASH TV
 http://184.173.181.2:1935/8158/8158/playlist.m3u8
-#EXTINF:-1 $ExtFilter=" ULUSAL" ,FLASH TV Seçenek 2
-http://origin.live.web.tv.streamprovider.net/streams/e576f7fb1645893450446d3722613c5d_live_0_0/index.m3u8
+
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TV2
-http://31.186.24.232:8000/21
+
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,CNBC-e
 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,e2
@@ -205,26 +204,19 @@ http://vivisolive-lh.akamaihd.net/i/syg_backup3_1@383108/index_360_av-b.m3u8?sd=
 
 #EXTINF:-1 $ExtFilter=" ÇOCUK" ,TRT ÇOCUK
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:-1 $ExtFilter=" ÇOCUK" ,TRT ÇOCUK Seçenek 2
-http://sol.trtcdn.com/tv/trtcocuk/mp4:trtcocuk_1/playlist.m3u8
+
 #EXTINF:-1 $ExtFilter=" ÇOCUK"  ,PLANET ÇOCUK
 rtmp://77.223.146.117/live/planetc
-#EXTINF:-1 $ExtFilter=" ÇOCUK" ,PLANET ÇOCUK Seçenek 2
-http://edge.ailetv.net/org1/planetcocuk_me/playlist.m3u8
-#EXTINF:-1 $ExtFilter=" ÇOCUK" ,CARTOON NETWORK
-http://origin.live.web.tv.streamprovider.net/streams/e0abd0b3943ae7bbcff8e3b570ef4612_live_0_0/index.m3u8
+
+
 #EXTINF:-1 $ExtFilter=" ÇOCUK" ,DISNEY CHANNEL
 http://212.224.108.83/S2/HLS_LIVE/disney/track_4_1000/playlist.m3u8
-#EXTINF:-1 $ExtFilter=" ÇOCUK" ,MİNİKA GO
-http://origin.live.web.tv.streamprovider.net/streams/24b429ab889afc37becb9e59ff84820c_live_0_0/index.m3u8
-#EXTINF:-1 $ExtFilter=" ÇOCUK" ,MİNİKA ÇOCUK
-http://origin.live.web.tv.streamprovider.net/streams/f79e39a0979af7718cf4828779c7ef26_live_0_0/index.m3u8
+
 #EXTINF:-1 $ExtFilter=" ÇOCUK" ,ÇİZGİ FİLM TV
 mmsh://yayin.networkbil.com/cizgifilmtv
 #EXTINF:-1 $ExtFilter=" ÇOCUK" ,TV4
 http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
-#EXTINF:-1 $ExtFilter=" ÇOCUK" ,TV4 Seçenek 2
-http://origin.live.web.tv.streamprovider.net/streams/ffbc4ac453d1a5a599313cd0e2bdc50d/index.m3u8
+
 
 #EXTINF:-1 $ExtFilter=" ÇOCUK" ,RAİ YOYO
 mms://212.162.68.162/rai_yoyo
@@ -322,20 +314,10 @@ http://sol.trtcdn.com/tv/trtmuzik/mp4:trtmuzik_3/playlist.m3u8
 http://origin.live.web.tv.streamprovider.net/streams/a9ee44c3dd6cb3889345731968c3a480_live_0_0/index.m3u8
 
 
-#EXTINF:-1 $ExtFilter="MÜZİK" ,DAMAR TV
-http://origin.live.web.tv.streamprovider.net/streams/41d1630daf5a724edd7d057eed6fe147_live_0_0/index.m3u8
-#EXTINF:-1 $ExtFilter="MÜZİK" ,GENÇ TV
-http://origin.live.web.tv.streamprovider.net/streams/45b3a774008e07aa0958f4c63addf718_live_0_0/index.m3u8
+
 #EXTINF:-1 $ExtFilter="MÜZİK" ,PRENS TV
 rtmp://extondemand.livestream.com/ondemand/trans/dv03/mogulus-user-files/chprenstv/2008/12/14/4aa57bd5-816c-470f-8f04-5ce7d2a1d304
-#EXTINF:-1 $ExtFilter="MÜZİK" ,DAMLA TV
-http://origin.live.web.tv.streamprovider.net/streams/8c4a5bd6d3c5d3c21c11deb333bd4b7d/index.m3u8
-#EXTINF:-1 $ExtFilter="MÜZİK" ,YAREN TV
-http://origin.live.web.tv.streamprovider.net/streams/7fde360de33fe28bf2c8e2d5d8ba7a7a/index.m3u8
-#EXTINF:-1 $ExtFilter="MÜZİK" ,GENÇ TÜRKÜ TV
-http://origin.live.web.tv.streamprovider.net/streams/86d21f47598ca63b063558727a16ea86_live_0_0/index.m3u8
-#EXTINF:-1 $ExtFilter="MÜZİK" ,RUHA TV
-http://origin.live.web.tv.streamprovider.net/streams/4408f7d6dac84db4a6507378015149c0_live_0_0/index.m3u8
+
 #EXTINF:-1,OGUN HABER
 rtmp://s01.speednext.com:1935/ogunhaber/ogunhaber
 #EXTINF:-1,ADANA KOZA
@@ -350,8 +332,7 @@ http://proiptv.dyndns.tv:7088
 http://sol.trtcdn.com/tv/trtbelgesel/smil:trtbelgesel.smil/playlist.m3u8
 #EXTINF:-1 $ExtFilter="BELGESEL" ,TRT OKUL
 http://sol.trtcdn.com/tv/trtokul/smil:trtokul.smil/playlist.m3u8
-#EXTINF:-1 $ExtFilter="BELGESEL" ,MAVİ BELGESEL
-http://origin.live.web.tv.streamprovider.net/streams/9b9c2461a9a20316571c1bdfab38627b_live_0_0/index.m3u8
+
 
 #EXTINF:-1 $ExtFilter="BELGESEL" ,TGRT Belgesel
 rtmp://tgrtbelgesel.mediatriple.net:1935/tgrtbliveedge/tgrt1
