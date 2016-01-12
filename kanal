@@ -51,8 +51,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/index_600_av-p.m3u8?sd=10
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 7
 http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
-
-
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 7 HD
+http://bit.do/kanal7hd
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 7 AVRUPA
 http://livetr.gostream.nl/kanal7int/kanal7int/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TV8
@@ -72,7 +72,7 @@ http://kanalturk-live.ercdn.com/kanalturk.m3u8
 http://184.173.181.2:1935/8158/8158/playlist.m3u8
 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TV2
-
+http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,CNBC-e
 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,e2
@@ -90,8 +90,9 @@ curl 'http://vivisolivegrp01-lh.akamaihd.net/i/shabertv_1@398173/index_360_av-b.
 http://vivisolive-lh.akamaihd.net/i/syg_backup2_1@382438/index_360_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,BEYAZ TV
 http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
+
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL A
-http://yayin.yayin.tv.tr:1935/kanala/kanala1/playlist.m3u8
+
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT TÜRK
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT TÜRK Seçenek 2
@@ -449,7 +450,7 @@ http://yayin3.canlitv.com:1935/live/kanal58/playlist.m3u8
 http://yayin3.canlitv.com:1935/live/kaytv/playlist.m3u8
 
 #EXTINF:-1,Sinema 5001
-http://50.7.207.114/sinema1/udp/239.99.4.0:5001
+http://50.7.207.114/sinema2/udp/239.99.4.0:5001
 #EXTINF:-1,Sinema 5002
 http://50.7.207.114/sinema2/udp/239.99.4.0:5002
 #EXTINF:-1,Sinema 5003
@@ -491,12 +492,11 @@ http://l2cm794529ac5f00564a6c46000000.5a321a5f2f1a7884.kpnsmoote1e.npostreaming.
 rtmp://livestream.zeelandnet.nl/live/omroepzeeland_tv_200k.sdp
 #EXTINF:-1,NL RTV Drenthe
 rtmp://stream.rtvdrenthe.nl/tv/tvstream1
-#EXTINF:-1,NL Salto 1 TV mms
-mms://195.169.148.57/A1
-#EXTINF:-1,NL Salto 2 TV mms
-mms://195.169.148.57/A2
+
 #EXTINF:-1,Omroep Brabant
 http://omroepbrabant.rr.kpnstreaming.nl/hls/live/omroepbrabant/omroepbrabant_tv/index.m3u8
+#EXTINF:-1,Omroep Brabant (radio)
+http://omroepbrabant.rr.kpnstreaming.nl/b2b/live/omroepbrabant/omroepbrabant_vradio/index.m3u8
 #EXTINF:-1,Omroep Flevoland
 http://edge02.streamgate.nl/live/omroepflevoland/smil:flevo_livestream.smil/playlist.m3u8
 #EXTINF:-1,RTV NH
