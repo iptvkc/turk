@@ -629,13 +629,10 @@ http://hdtvizle.ru/14452/71930/71968/iptv/tv3.m3u8
 #EXTINF:-1,TV 1000
 http://hdtvizle.ru/14452/71930/71968/iptv/tv1000.m3u8
 
-
-
 #EXTINF:-1,      ----FUTBOL TEST----
 
 #EXTINF:-1,FUTBOL 1
 rtmp://158.69.225.205/mylive/websporr10
-
 #EXTINF:-1,FUTBOL 2
 http://coco.noip.us:8060/live/ahmet09/iErYITTM7T/2.m3u8
 #EXTINF:-1,FUTBOL 3
