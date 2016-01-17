@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,         [COLOR RED]----*IPTV KAMIL*-----[/COLOR]
+#EXTINF:-1,                                 [COLOR RED]----*IPTV KAMIL*-----[/COLOR]
 hthttp://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&live=true&app=com.kanald&min=0&max=1250tp://212.224.108.80/S1/HLS_LIVE/kanald/500/prog_index.m3u8
 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL D
@@ -384,7 +384,7 @@ http://50.7.207.114/sinema5/udp/239.99.4.0:5005
 #EXTINF:-1,Sinema 5006
 http://50.7.207.114/sinema6/udp/239.99.4.0:5006
 
-#EXTINF:-1,          ----NEDERLAND-----
+#EXTINF:-1,                                 ----NEDERLAND-----
 
 #EXTINF:-1,NPO 1
 http://l2cm036f34582300564a674b000000.547f9e588067d5c6.kpnsmoote2f.npostreaming.nl/d/live/npo/tvlive/ned1/ned1.isml/ned1-audio=128000-video=900000.m3u8
@@ -428,7 +428,7 @@ http://92.222.205.40:8080/superlig
 
 
 
-#EXTINF:-1,      ----FUTBOL TEST----
+#EXTINF:-1,                                 ----FUTBOL TEST----
 http://92.222.205.40:8080/superlig
 #EXTINF:-1,FUTBOL 1
 rtmp://158.69.225.205/mylive/websporr10
@@ -437,7 +437,7 @@ http://coco.noip.us:8060/live/ahmet09/iErYITTM7T/2.m3u8
 #EXTINF:-1,FUTBOL 3
 http://coco.noip.us:8060/live/ahmet09/iErYITTM7T/5.m3u8
 
-#EXTINF:-1,      ----YEDEK TEST----
+#EXTINF:-1,                                 ----YEDEK TEST----
 http://92.222.205.40:8080/superlig
 #EXTINF:-1, TRT 1 HD
 http://hdtvizle.ru/14452/71930/71968/trt1hd.m3u8
@@ -548,7 +548,7 @@ http://hdtvizle.ru/14452/71930/71968/trtavaz.m3u8
 #EXTINF:-1, TRT Avaz HD
 http://hdtvizle.ru/14452/71930/71968/trtavazhd.m3u8
 
-#EXTINF:-1,      ----YEDEK TEST (1)----
+#EXTINF:-1,                                 ----YEDEK TEST (1)----
 http://www.iptvsaga.com/play/tv3/0030.m3u8
 #‎EXTINF‬:-1,TRT 1 HD
 http://www.iptvsaga.com/play/tv3/0030.m3u8
