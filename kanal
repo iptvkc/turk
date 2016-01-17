@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,          ----*IPTV KAMIL*-----
+#EXTINF:-1,         [COLOR RED]----*IPTV KAMIL*-----[/COLOR]
 hthttp://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&live=true&app=com.kanald&min=0&max=1250tp://212.224.108.80/S1/HLS_LIVE/kanald/500/prog_index.m3u8
 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL D
