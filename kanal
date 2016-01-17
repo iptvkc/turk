@@ -275,10 +275,7 @@ rtmp://77.92.139.130:1935/berekethayvan/berekethayvan3
 http://31.186.24.233:8009/1
 #EXTINF:-1,KON TV
 http://ift.tt/1FYVSCZ
-#EXTINF:-1,BURSA OLAY
-rtmp://canli.olaytv.com.tr:1935/olaytv/olaytv
-#EXTINF:-1,BURSA AS
-http://yayin3.canlitv.com:1935/live/astv/radyodelisi.m3u8
+
 #EXTINF:-1,SAMSUN 55
 http://ift.tt/1Hahf41
 #EXTINF:-1,KAYSERI TV
@@ -419,8 +416,6 @@ http://mn-l.mncdn.com/tvem_live/tvem3/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,BRT 1
 rtmp://sponsored.ncbtv.com:1835/live/42e_brt1
 
-#EXTINF:-1 $ExtFilter=" ULUSAL" ,BRT 1 Seçenek 2
-http://origin.live.web.tv.streamprovider.net/streams/6f001b3bdb3b24f728514acde0a7b05b_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,BRT 2
 rtmp://sponsored.ncbtv.com:1835/live/42e_brt2
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,BRT 2 Seçenek 2
