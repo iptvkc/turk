@@ -29,7 +29,7 @@ http://live-ciner.mncdn.net/showtv/showtv2/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SHOW TÜRK 
 http://mn-l.mncdn.com/showturktv/showturktv1/HasBahCa.m3u8
 #EXTINF:-1,SAMANYOLU 
-http://vivisolivegrp01-lh.akamaihd.net/i/stv_1@398177/index_360_av-b.m3u8?sd=10&rebase=on
+http://www.iptvsaga.com/play/tv3/0039.m3u8
 #EXTINF:-1,SAMANYOLU yedek
 http://vivisolive-lh.akamaihd.net/i/syg_backup1_1@382437/index_360_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,SAMANYOLU EU
@@ -83,11 +83,7 @@ rtmp://cine5.stream.cubecdn.net/cine5/stream_1
 #EXTINF:-1,MC TV
 http://vivisolivegrp01-lh.akamaihd.net/i/mctv_1@398169/index_270_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,SAMANYOLU HABER
-http://vivisolivegrp01-lh.akamaihd.net/i/mceutv_1@398167/index_270_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,SAMANYOLU HABER yedek
-curl 'http://vivisolivegrp01-lh.akamaihd.net/i/shabertv_1@398173/index_360_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,SAMANYOLU HABER 
-http://vivisolive-lh.akamaihd.net/i/syg_backup2_1@382438/index_360_av-b.m3u8?sd=10&rebase=on
+http://www.iptvsaga.com/play/tv3/0040.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,BEYAZ TV
 http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,BEYAZ TV (yedek)
@@ -273,15 +269,9 @@ http://yayin3.canlitv.com:1935/live/tarimturktv/HasBahCa.m3u8
 rtmp://77.92.139.130:1935/berekethayvan/berekethayvan3
 #EXTINF:-1,ANIMAL BOX
 http://31.186.24.233:8009/1
-#EXTINF:-1,KON TV
-http://ift.tt/1FYVSCZ
-
-#EXTINF:-1,SAMSUN 55
-http://ift.tt/1Hahf41
 #EXTINF:-1,KAYSERI TV
 rtmp://yayin3.canliyayin.org/tvkayseri/tvkayseri
-#EXTINF:-1,KAYSERI TV1
-rtmp://stream.taksimbilisim.com:1935/tv1/bant1
+
 #EXTINF:-1,SIVAS SRT
 rtmp://stream.taksimbilisim.com:1935/srt/bant1
 #EXTINF:-1,AKSARAY 68
@@ -290,48 +280,25 @@ http://ift.tt/1RWICHw
 http://ift.tt/1RWIEPn
 #EXTINF:-1,MERCAN
 http://ift.tt/1RWIEPr
-#EXTINF:-1,KONYA SUN
-http://ift.tt/1FYVQel
+
 #EXTINF:-1 $ExtFilter="SİNEMA" ,PLANET PEMBE
 rtmp://77.223.146.117/live/planetp
-#EXTINF:-1 $ExtFilter="SİNEMA" ,PLANET PEMBE Seçenek 2
-rtmp://edge04-07.az.myvideo.az/dvrh264/planetpembe/planetpembe
+
 #EXTINF:-1 $ExtFilter="SİNEMA" ,PLANET TÜRK
 rtmp://77.223.146.117/live/planett
-#EXTINF:-1 $ExtFilter="SİNEMA" ,PLANET TÜRK Seçenek 2
-rtmp://edge04-07.az.myvideo.az/dvrh264/planetturk/planetturk
-#EXTINF:-1 $ExtFilter="SİNEMA" ,MEDYAM 24
-http://ift.tt/1PO9yoS
-#EXTINF:-1 $ExtFilter="SİNEMA" ,SİNEMATÜRK
-http://live.netd.com.tr/S1/HLS_LIVE/taksim/1000/prog_index.m3u8
-#EXTINF:-1 $ExtFilter="SİNEMA" ,NETD TURK HD
-http://212.224.108.80/S1/HLS_LIVE/taksim/1000/prog_index.m3u8
+
+
 #EXTINF:-1 $ExtFilter="MÜZİK" ,TRT MÜZİK
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 #EXTINF:-1 $ExtFilter="MÜZİK" ,TRT MÜZİK Seçenek 2
 http://sol.trtcdn.com/tv/trtmuzik/mp4:trtmuzik_3/playlist.m3u8
-#EXTINF:-1 $ExtFilter="MÜZİK" ,TRT MÜZİK Seçenek 3
-http://origin.live.web.tv.streamprovider.net/streams/a9ee44c3dd6cb3889345731968c3a480_live_0_0/index.m3u8
 
-
-
-#EXTINF:-1 $ExtFilter="MÜZİK" ,PRENS TV
-rtmp://extondemand.livestream.com/ondemand/trans/dv03/mogulus-user-files/chprenstv/2008/12/14/4aa57bd5-816c-470f-8f04-5ce7d2a1d304
-
-#EXTINF:-1,OGUN HABER
-rtmp://s01.speednext.com:1935/ogunhaber/ogunhaber
 #EXTINF:-1,ADANA KOZA
 http://kozatv.garantisistem.com:1935/kozatv/kozatv2/HasBahCa.m3u8
-#EXTINF:-1,HABER 61
-rtmp://win8.yayinda.org/haber61tv/haber61tv
-#EXTINF:-1,KANAL S
-http://ift.tt/1d9OBZF
+
 #EXTINF:-1 $ExtFilter="BELGESEL" ,HISTORY DOCUMANTARY TR 
 http://proiptv.dyndns.tv:7088
-#EXTINF:-1 $ExtFilter="BELGESEL" ,TRT BELGESEL
-http://sol.trtcdn.com/tv/trtbelgesel/smil:trtbelgesel.smil/playlist.m3u8
-#EXTINF:-1 $ExtFilter="BELGESEL" ,TRT OKUL
-http://sol.trtcdn.com/tv/trtokul/smil:trtokul.smil/playlist.m3u8
+
 
 
 #EXTINF:-1 $ExtFilter="BELGESEL" ,TGRT Belgesel
@@ -349,12 +316,8 @@ http://yayin3.canlitv.com:1935/live/untv/playlist.m3u8
 
 #EXTINF:-1 $ExtFilter=" DİNİ" ,DİYANET TV
 http://5.44.154.68/dvr/diyanettv.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter=" DİNİ" ,TRT DİYANET
-http://sol.trtcdn.com/tv/trtdiyanet/smil:trtdiyanet.smil/playlist.m3u8
-#EXTINF:-1 $ExtFilter=" DİNİ" ,QURAN TV Türkçe
-mmsh://isl1.islam4peace.com/QuranTurkishThemeTV
-#EXTINF:-1 $ExtFilter=" DİNİ" ,QURAN TV Azerice
-mmsh://isl1.islam4peace.com/QuranAzeriThemeTV
+
+
 
 #EXTINF:-1 $ExtFilter=" DİNİ" ,REHBER TV
 rtmp://yayin5.canliyayin.org:1935/live/rehbertv
@@ -362,37 +325,18 @@ rtmp://yayin5.canliyayin.org:1935/live/rehbertv
 rtmp://yayin.dosttv.com/dosttv/dosttv2
 #EXTINF:-1 $ExtFilter=" DİNİ" ,HİLAL TV
 http://yayin8.canliyayin.org:1935/hilaltv/hilaltv/playlist.m3u8
-#EXTINF:-1 $ExtFilter="SİNEMA" ,KANAL İSLAM
+#EXTINF:-1 $ExtFilter=" DİNİ" ,KANAL ISLAM
 mmsh://yayin.networkbil.com/kanalislam
-#EXTINF:-1 $ExtFilter=" DİNİ" ,KANAL KABE
-http://livetr.gostream.nl/mekke/mekke/playlist.m3u8
-#EXTINF:-1 $ExtFilter=" DİNİ" ,KANAL MEKKE
-http://vivisolivegrp01-lh.akamaihd.net/i/mekketv_1@398171/index_270_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 $ExtFilter=" DİNİ" ,KANAL MEDINE
-http://livetr.gostream.nl/medine/medine/playlist.m3u8
 
-#EXTINF:-1 $ExtFilter=" DİNİ" ,ISTANBUL TV
-rtmp://s01.speednext.com:1935/istanbultv/istanbultv  
+
+
 #EXTINF:-1 $ExtFilter="TÜRKİ" ,ANS TV Azerbaycan
 http://ans-ng.ercdn.com/ans/live/anstv.m3u8
-
-
-#EXTINF:-1 $ExtFilter="TÜRKİ" ,ATV Azerbaycan
-http://85.132.81.184:8080/atvlive/atv/index.m3u8
-#EXTINF:-1 $ExtFilter="TÜRKİ" ,AZ TV Azerbaycan
-http://85.132.71.6/mylive/aztv/index.m3u8
-
 #EXTINF:-1 $ExtFilter="TÜRKİ" ,CTV Azerbaycan
 http://85.132.81.184:8080/ctv/live/index.m3u8
-#EXTINF:-1 $ExtFilter="TÜRKİ" ,DÜNYA TV Azerbaycan
-http://iphone-streaming.ustream.tv/ustreamVideo/6817688/streams/live/playlist.m3u8
+
 #EXTINF:-1 $ExtFilter="TÜRKİ" ,EL TV Azerbaycan
 http://85.132.81.184/eltv/live/index.m3u8
-
-
-#EXTINF:-1 $ExtFilter="TÜRKİ" ,İDMAN TV Azerbaycan
-http://edge.ailetv.net/org11/idmanazerbaycan_me/playlist.m3u8
-
 
 #EXTINF:-1 $ExtFilter="TÜRKİ" ,KTK Kazakistan
 http://195.49.213.56/ktklive/live.hq/playlist.m3u8
@@ -405,12 +349,6 @@ rtmp://85.132.78.6:1935/live/muztv.stream
 
 #EXTINF:-1 $ExtFilter="TÜRKİ" ,REGİON TV Azerbaycan Seçenek 2
 http://85.132.81.184:8080/regiontv/live/index.m3u8
-
-
-#EXTINF:-1 $ExtFilter="TÜRKİ" ,TURKEL TV Azerbaycan
-rtmp://85.132.81.184/ttv/live
-
-
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TV EM
 http://mn-l.mncdn.com/tvem_live/tvem3/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,BRT 1
@@ -418,29 +356,16 @@ rtmp://sponsored.ncbtv.com:1835/live/42e_brt1
 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,BRT 2
 rtmp://sponsored.ncbtv.com:1835/live/42e_brt2
-#EXTINF:-1 $ExtFilter=" ULUSAL" ,BRT 2 Seçenek 2
-http://wms.brtk.net:1935/live/brt2/playlist.m3u8
 
-
-#EXTINF:-1 $ExtFilter=" ULUSAL" ,VTV
-rtmp://stream2.taksimbilisim.com/kanalvip/bant1
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TÜRKMENELİ TV
 mms://213.142.142.213/turkmenelitv
-#EXTINF:-1 $ExtFilter=" ULUSAL" ,AKILLI TV
-rtmp://37.75.10.20:1935/akillitv/akilli
-#EXTINF:-1 $ExtFilter=" ULUSAL" ,AKILLI TV Seçenek 2
-http://origin.live.web.tv.streamprovider.net/streams/8da780618e63e48c414168d9ddf1fb83_live_0_0/index.m3u8
+
 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,PLANET MUTFAK
 rtmp://77.223.146.117/live/planetm
 #EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TV 4 
 http://mn-l.mncdn.com/karamel/karamel/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TV 2000 
-rtmp://stream.taksimbilisim.com/tv2000/bant1
-#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TV 1  
-rtmp://stream.taksimbilisim.com:1935/tv1/bant1
-#EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 38
-http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8 
+
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 58
 http://yayin3.canlitv.com:1935/live/kanal58/playlist.m3u8 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KAY TV
