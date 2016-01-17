@@ -630,6 +630,95 @@ http://92.222.205.40:8080/superlig
  #EXTINF:-1, TRT Avaz HD
  http://hdtvizle.ru/14452/71930/71968/trtavazhd.m3u8
 
-
- 
-
+#EXTINF:-1,      ----YEDEK TEST (1)----
+ http://www.iptvsaga.com/play/tv3/0030.m3u8
+#‎EXTINF‬:-1,TRT 1 HD
+ http://www.iptvsaga.com/play/tv3/0030.m3u8
+ #EXTINF:-1,TRT HD
+ http://www.iptvsaga.com/play/tv3/0036.m3u8
+ #EXTINF:-1,TRT HABER HD
+ http://www.iptvsaga.com/play/tv3/0049.m3u8
+ #EXTINF:-1,TRT TÜRK HD
+ http://www.iptvsaga.com/play/tv3/0050.m3u8
+ #EXTINF:-1,TRT World
+ http://www.iptvsaga.com/play/tv3/0031.m3u8
+ #EXTINF:-1,TRT AVAZ HD
+ http://www.iptvsaga.com/play/tv3/0032.m3u8
+ #EXTINF:-1,TRT KURDİ HD
+ http://www.iptvsaga.com/play/tv3/0033.m3u8
+ #EXTINF:-1,TRT OKUL HD
+ http://www.iptvsaga.com/play/tv3/0034.m3u8
+ #EXTINF:-1,TRT ARAPÇA
+ http://www.iptvsaga.com/play/tv3/0035.m3u8
+ #EXTINF:-1,TRT 3-TBMM TV
+ http://www.iptvsaga.com/play/tv3/0037.m3u8
+ #EXTINF:-1,TRT SPOR HD
+ http://www.iptvsaga.com/play/tv3/0056.m3u8
+ #EXTINF:-1,TRT BELGESEL HD
+ http://www.iptvsaga.com/play/tv3/0061.m3u8
+ #EXTINF:-1,TRT DİYANET HD
+ http://www.iptvsaga.com/play/tv3/0062.m3u8
+ #EXTINF:-1,ATV HD
+ http://www.iptvsaga.com/play/tv3/0041.m3u8
+ #EXTINF:-1,SHOW HD
+ http://www.iptvsaga.com/play/tv3/0045.m3u8
+ #EXTINF:-1,Kanal D HD
+ http://www.iptvsaga.com/play/tv3/0038.m3u8
+ #EXTINF:-1,Star TV
+ http://www.iptvsaga.com/play/tv3/0063.m3u8
+ #EXTINF:-1,tv8 HD
+ http://www.iptvsaga.com/play/tv3/0064.m3u8
+ #EXTINF:-1,Fox HD
+ http://www.iptvsaga.com/play/tv3/0065.m3u8
+ #EXTINF:-1,Samanyolu TV
+ http://www.iptvsaga.com/play/tv3/0039.m3u8
+ #EXTINF:-1,Samanyolu Haber
+ http://www.iptvsaga.com/play/tv3/0040.m3u8
+ #EXTINF:-1,Flash TV
+ http://www.iptvsaga.com/play/tv3/0042.m3u8
+ #EXTINF:-1,Kanal 7
+ http://www.iptvsaga.com/play/tv3/0043.m3u8
+ #EXTINF:-1,KANALTÜRK
+ http://kanalturk-live.ercdn.com/kanalturk.m3u8
+ #EXTINF:-1,TVEM
+ http://www.iptvsaga.com/play/tv3/0046.m3u8
+ #EXTINF:-1,TV 2
+ http://www.iptvsaga.com/play/tv3/0047.m3u8
+ #EXTINF:-1,e2
+ http://www.iptvsaga.com/play/tv3/0048.m3u8
+ #EXTINF:-1,Fil TV
+ http://www.iptvsaga.com/play/tv3/0067.m3u8
+ #EXTINF:-1,TLC
+ http://www.iptvsaga.com/play/tv3/0073.m3u8
+ #EXTINF:-1,CNN Turk
+ http://www.iptvsaga.com/play/tv3/0051.m3u8
+ #EXTINF:-1,HABERTÜRK
+ http://www.iptvsaga.com/play/tv3/0073.m3u8
+ #EXTINF:-1,Bugün TV
+ http://www.iptvsaga.com/play/tv3/0052.m3u8
+ #EXTINF:-1,CINE 5
+ http://www.iptvsaga.com/play/tv3/0072.m3u8
+ #EXTINF:-1,Bloomberg
+ http://www.iptvsaga.com/play/tv3/0066.m3u8
+ #EXTINF:-1,TRT ÇOCUK
+ http://www.iptvsaga.com/play/tv3/0053.m3u8
+ #EXTINF:-1,MINIKA Çocuk
+ http://www.iptvsaga.com/play/tv3/0054.m3u8
+ #EXTINF:-1,MINIKA GO
+ http://www.iptvsaga.com/play/tv3/0055.m3u8
+ #EXTINF:-1,NTV SPOR
+ http://www.iptvsaga.com/play/tv3/0057.m3u8
+ #EXTINF:-1,SPORTS TV
+ http://www.iptvsaga.com/play/tv3/0058.m3u8
+ #EXTINF:-1,TRT Müzik HD
+ http://www.iptvsaga.com/play/tv3/0059.m3u8
+ #EXTINF:-1,DreamTürk TV
+ http://www.iptvsaga.com/play/tv3/0060.m3u8
+ #EXTINF:-1,Dream TV
+ http://www.iptvsaga.com/play/tv3/0069.m3u8
+ #EXTINF:-1,Number One HD
+ http://www.iptvsaga.com/play/tv3/0068.m3u8
+ #EXTINF:-1,POWERTÜRK HD
+ http://www.iptvsaga.com/play/tv3/0070.m3u8
+ #EXTINF:-1,POWER TV
+ http://www.iptvsaga.com/play/tv3/0071.m3u8 
