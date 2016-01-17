@@ -93,16 +93,15 @@ http://hdtvizle.ru/14452/71930/71968/beyaz.m3u8
 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT TÜRK
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
-#EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT TÜRK Seçenek 2
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT TÜRK (1)
 http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/chunklist_w372120323_b665600.m3u8
-#EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TRT TÜRK 
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT TÜRK (2)
 rtmp://sol.trtcdn.com/tv/trtturk/mp4:trtturk_3
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT DİYANET
 http://sol.trtcdn.com/tv/trtdiyanet/mp4:trtdiyanet_3/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TV5
 mmsh://yayin3.canliyayin.org/tv5
-#EXTINF:-1 $ExtFilter=" ULUSAL" ,TV5 Seçenek 2
-http://origin.live.web.tv.streamprovider.net/streams/2a6b8773facea199a116b28119c87b55_live_0_0/index.m3u8
+
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,SEMERKAND TV
 rtmp://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,SEMERKAND TV (yedek)
@@ -113,13 +112,13 @@ http://sol.trtcdn.com/tv/trtokul/smil:trtokul.smil/playlist.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,TRT HABER HD yedek
 http://ift.tt/1xhMprn
-#EXTINF:-1 $ExtFilter=" HABER" ,TRT HABER Seçenek 2
+#EXTINF:-1 $ExtFilter=" HABER" ,TRT HABER (2)
 http://sol.trtcdn.com/tv/trthaber/smil:trthaber.smil/chunklist_w1566915298_b665600.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,CNN TÜRK
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1 $ExtFilter=" HABER" ,CNN TÜRK Seçenek 2
+#EXTINF:-1 $ExtFilter=" HABER" ,CNN TÜRK (1)
 http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1 $ExtFilter=" HABER" ,CNN TÜRK Seçenek 3
+#EXTINF:-1 $ExtFilter=" HABER" ,CNN TÜRK (2)
 http://ift.tt/1QTrG33
 #EXTINF:-1 $ExtFilter=" HABER" ,NTV
 http://origin2.live.web.tv.streamprovider.net/streams/725528006e858fe951867f4e2436843f_live_0_0/index.m3u8
@@ -129,7 +128,7 @@ http://46.20.7.97:80/360tv/live/playlist.m3u8
 
 #EXTINF:-1 $ExtFilter=" HABER" ,HABERTÜRK
 http://strm-i.glb.pr.medianova.tv:1935/haberturk/haberturk2/playlist.m3u8
-#EXTINF:-1 $ExtFilter=" HABER" ,HABERTÜRK Seçenek 2
+#EXTINF:-1 $ExtFilter=" HABER" ,HABERTÜRK (1)
 http://mn-l.mncdn.com/haberturk/haberturk2/playlist.m3u8
 
 #EXTINF:-1 $ExtFilter=" HABER" ,A HABER
@@ -142,7 +141,7 @@ http://tgrthaber.mediatriple.net:1935/tgrtliveedge/smil:tgrt.smil/Playlist.m3u8
 http://tgrteu.mediatriple.net:1935/tgrteuliveedge/smil:tgrt.smil/Playlist.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,ÜLKE TV
 http://livetr.gostream.nl/ulketvhq/ulketvhq/playlist.m3u8
-#EXTINF:-1 $ExtFilter=" HABER" ,ÜLKE TV 2
+#EXTINF:-1 $ExtFilter=" HABER" ,ÜLKE TV (1)
 http://ift.tt/1UJ30x7
 #EXTINF:-1 $ExtFilter=" HABER" ,TVNET
 rtmp://91.93.118.165/tvnet/livestream
@@ -150,15 +149,13 @@ rtmp://91.93.118.165/tvnet/livestream
 http://212.174.233.129/hls-live/livepkgr/_definst_/liveevent/mylivestream.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,TV 1
 http://stream.taksimbilisim.com:1935/tv1/smil:tv1.smil/playlist.m3u8
-#EXTINF:-1 $ExtFilter=" HABER" ,HALK HABER Seçenek 2
-rtmp://halk-tv.karwan.tv:1935/liveedge//live
 
 #EXTINF:-1 $ExtFilter=" HABER" ,ON 4
 rtmp://yayin.netradyom.com/live/on4
 
 #EXTINF:-1 $ExtFilter=" HABER" ,BLOOMBERG HT
 http://mn-l.mncdn.com/bloomberght/bloomberght2/playlist.m3u8
-#EXTINF:-1 $ExtFilter=" HABER" ,BLOOMBERG HT Seçenek 2
+#EXTINF:-1 $ExtFilter=" HABER" ,BLOOMBERG HT (1)
 http://live-ciner.mncdn.net/bloomberght/bloomberght2/playlist.m3u8
 
 #EXTINF:-1 $ExtFilter=" HABER" ,HABER 61 TV
@@ -221,44 +218,7 @@ http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
 mms://212.162.68.162/rai_yoyo
 #EXTINF:-1 $ExtFilter=" ÇOCUK" ,CAMP CARTOON
 mms://72.13.93.186/campcartoon
-#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SINEMA
-mmsh://yayin7.canliyayin.org/sinema?MSWMExt=.asf
-#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SINEMA 1
-mmsh://yayin7.canliyayin.org/sinema1?MSWMExt=.asf
-#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA Seçenek 2
-mmsh://50.7.207.114/sinema?MSWMExt=.asf
-#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 1 Seçenek 2
-mmsh://50.7.207.114/sinema1?MSWMExt=.asf
-#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 2
-mmsh://yayin7.canliyayin.org/sinema2?MSWMExt=.asf
-#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 2 Seçenek 2
-mmsh://50.7.207.114/sinema2?MSWMExt=.asf
-#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 3
-mmsh://yayin7.canliyayin.org/sinema3?MSWMExt=.asf
-#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 3 Seçenek 2
-mmsh://50.7.207.114/sinema3?MSWMExt=.asf
-#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 4
-mmsh://yayin7.canliyayin.org/sinema4?MSWMExt=.asf
-#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 4 Seçenek 2
-mmsh://50.7.207.114/sinema4?MSWMExt=.asf
-#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 5
-mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
-#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 5 Seçenek 2
-mmsh://50.7.207.114/sinema5?MSWMExt=.asf
-#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 6
-mmsh://yayin7.canliyayin.org/sinema6?MSWMExt=.asf
-#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 6 Seçenek 2
-mmsh://50.7.207.114/sinema6?MSWMExt=.asf
-#EXTINF:-1 $ExtFilter="SİNEMA" ,HD YERLİ SİNEMA
-mmsh://yayin7.canliyayin.org/sinematurk?MSWMExt=.asf
-#EXTINF:-1 $ExtFilter="SİNEMA" ,HD YERLİ SİNEMA Seçenek 2
-mmsh://50.7.207.114/sinematurk?MSWMExt=.asf
-#EXTINF:-1 $ExtFilter="SİNEMA" ,KANAL M
-mmsh://yayin.networkbil.com/kanalm?MSWMExt=.asf
-#EXTINF:-1 $ExtFilter="SİNEMA" ,XNHD
-rtmp://win5.yayinda.org/telecine/telecine
-#EXTINF:-1 $ExtFilter="SİNEMA" ,FİL TV HD
-http://gg.gg/filtvhd
+
 #EXTINF:-1 $ExtFilter="SİNEMA" ,DOLUNAY
 http://ift.tt/1PO9y8u
 #EXTINF:-1,TARIM TV
@@ -280,6 +240,12 @@ http://ift.tt/1RWICHw
 http://ift.tt/1RWIEPn
 #EXTINF:-1,MERCAN
 http://ift.tt/1RWIEPr
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 58
+http://yayin3.canlitv.com:1935/live/kanal58/playlist.m3u8 
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,KAY TV
+http://yayin3.canlitv.com:1935/live/kaytv/playlist.m3u8
+#EXTINF:-1,ADANA KOZA
+http://kozatv.garantisistem.com:1935/kozatv/kozatv2/HasBahCa.m3u8
 
 #EXTINF:-1 $ExtFilter="SİNEMA" ,PLANET PEMBE
 rtmp://77.223.146.117/live/planetp
@@ -293,17 +259,10 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 #EXTINF:-1 $ExtFilter="MÜZİK" ,TRT MÜZİK Seçenek 2
 http://sol.trtcdn.com/tv/trtmuzik/mp4:trtmuzik_3/playlist.m3u8
 
-#EXTINF:-1,ADANA KOZA
-http://kozatv.garantisistem.com:1935/kozatv/kozatv2/HasBahCa.m3u8
-
 #EXTINF:-1 $ExtFilter="BELGESEL" ,HISTORY DOCUMANTARY TR 
 http://proiptv.dyndns.tv:7088
-
-
-
 #EXTINF:-1 $ExtFilter="BELGESEL" ,TGRT Belgesel
 rtmp://tgrtbelgesel.mediatriple.net:1935/tgrtbliveedge/tgrt1
-
 #EXTINF:-1 $ExtFilter="BELGESEL" ,ZTV BİLGİ
 rtmp://stream.taksimbilisim.com/ztv/bant1
 #EXTINF:-1 $ExtFilter="BELGESEL" ,KÖY TV
@@ -366,11 +325,44 @@ rtmp://77.223.146.117/live/planetm
 #EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TV 4 
 http://mn-l.mncdn.com/karamel/karamel/HasBahCa.m3u8
 
-#EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 58
-http://yayin3.canlitv.com:1935/live/kanal58/playlist.m3u8 
-#EXTINF:-1 $ExtFilter=" ULUSAL" ,KAY TV
-http://yayin3.canlitv.com:1935/live/kaytv/playlist.m3u8
-
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SINEMA
+mmsh://yayin7.canliyayin.org/sinema?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SINEMA 1
+mmsh://yayin7.canliyayin.org/sinema1?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA Seçenek 2
+mmsh://50.7.207.114/sinema?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 1 Seçenek 2
+mmsh://50.7.207.114/sinema1?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 2
+mmsh://yayin7.canliyayin.org/sinema2?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 2 Seçenek 2
+mmsh://50.7.207.114/sinema2?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 3
+mmsh://yayin7.canliyayin.org/sinema3?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 3 Seçenek 2
+mmsh://50.7.207.114/sinema3?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 4
+mmsh://yayin7.canliyayin.org/sinema4?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 4 Seçenek 2
+mmsh://50.7.207.114/sinema4?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 5
+mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 5 Seçenek 2
+mmsh://50.7.207.114/sinema5?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 6
+mmsh://yayin7.canliyayin.org/sinema6?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD SİNEMA 6 Seçenek 2
+mmsh://50.7.207.114/sinema6?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD YERLİ SİNEMA
+mmsh://yayin7.canliyayin.org/sinematurk?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,HD YERLİ SİNEMA Seçenek 2
+mmsh://50.7.207.114/sinematurk?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,KANAL M
+mmsh://yayin.networkbil.com/kanalm?MSWMExt=.asf
+#EXTINF:-1 $ExtFilter="SİNEMA" ,XNHD
+rtmp://win5.yayinda.org/telecine/telecine
+#EXTINF:-1 $ExtFilter="SİNEMA" ,FİL TV HD
+http://gg.gg/filtvhd
 #EXTINF:-1,Sinema 5001
 http://50.7.207.114/sinema2/udp/239.99.4.0:5001
 #EXTINF:-1,Sinema 5002
@@ -423,8 +415,7 @@ http://omroepbrabant.rr.kpnstreaming.nl/b2b/live/omroepbrabant/omroepbrabant_vra
 http://edge02.streamgate.nl/live/omroepflevoland/smil:flevo_livestream.smil/playlist.m3u8
 #EXTINF:-1,RTV NH
 http://lb-rtvnh-live.streamgate.nl/rtvnh/live/tvnh1/playlist.m3u8
-#EXTINF:-1,SUPERLI G MAC YAYINLARI
-http://92.222.205.40:8080/superlig
+
 
 
 
@@ -436,6 +427,8 @@ rtmp://158.69.225.205/mylive/websporr10
 http://coco.noip.us:8060/live/ahmet09/iErYITTM7T/2.m3u8
 #EXTINF:-1,FUTBOL 3
 http://coco.noip.us:8060/live/ahmet09/iErYITTM7T/5.m3u8
+#EXTINF:-1,MAC YAYINLARI
+http://92.222.205.40:8080/superlig
 
 #EXTINF:-1,                                 ----YEDEK TEST----
 http://92.222.205.40:8080/superlig
