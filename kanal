@@ -525,8 +525,7 @@ http://92.222.205.40:8080/superlig
  http://hdtvizle.ru/14452/71930/71968/trt1sd.m3u8
  #EXTINF:-1, ATV HD
  http://hdtvizle.ru/14452/71930/71968/atv.m3u8
- #EXTINF:-1, ATV SD
- http://hdtvizle.ru/14452/71930/71968/atvsd.m3u8
+
  #EXTINF:-1, ATV AVRUPA
  http://hdtvizle.ru/14452/71930/71968/atvavrupa.m3u8
  #EXTINF:-1, SHOW TV
@@ -632,7 +631,7 @@ http://92.222.205.40:8080/superlig
 
 #EXTINF:-1,      ----YEDEK TEST (1)----
  http://www.iptvsaga.com/play/tv3/0030.m3u8
-#‎EXTINF‬:-1,TRT 1 HD
+ #‎EXTINF‬:-1,TRT 1 HD
  http://www.iptvsaga.com/play/tv3/0030.m3u8
  #EXTINF:-1,TRT HD
  http://www.iptvsaga.com/play/tv3/0036.m3u8
