@@ -311,7 +311,12 @@ mms://213.142.142.213/turkmenelitv
 rtmp://77.223.146.117/live/planetm
 #EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TV 4 
 http://mn-l.mncdn.com/karamel/karamel/HasBahCa.m3u8
-
+#EXTINF:0,Salon 1 HD
+http://89.163.216.97:8000/live/Akif/Akif/3
+#EXTINF:0,Salon 2 HD
+http://89.163.216.97:8000/live/Akif/Akif/4
+#EXTINF:0,Salon 3 HD
+http://89.163.216.97:8000/live/Akif/Akif/5
 #EXTINF:-1 $ExtFilter="SİNEMA" ,HD SINEMA
 mmsh://yayin7.canliyayin.org/sinema?MSWMExt=.asf
 #EXTINF:-1 $ExtFilter="SİNEMA" ,HD SINEMA 1
@@ -411,7 +416,7 @@ http://92.222.205.40:8080/superlig
 #EXTINF:-1,FUTBOL 1
 rtmp://158.69.225.205/mylive/websporr10
 #EXTINF:-1,FUTBOL 2
-http://coco.noip.us:8060/live/ahmet09/iErYITTM7T/2.m3u8
+http://89.163.216.97:8000/live/Akif/Akif/2
 #EXTINF:-1,FUTBOL 3
 http://coco.noip.us:8060/live/ahmet09/iErYITTM7T/5.m3u8
 #EXTINF:-1,MAC YAYINLARI
