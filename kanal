@@ -3,19 +3,6 @@
 #EXTINF:-1,                                 [COLOR RED]----*IPTV KAMIL*-----[/COLOR]
 hthttp://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&live=true&app=com.kanald&min=0&max=1250tp://212.224.108.80/S1/HLS_LIVE/kanald/500/prog_index.m3u8
 
-#EXTINF:0,stream: LIG TV HD
-http://5.189.133.90:8000/live/Akif/Akif/1.ts
-#EXTINF:0,stream: Salon 1 HD
-http://5.189.133.90:8000/live/Akif/Akif/2.ts
-#EXTINF:0,stream: Salon 2 HD
-http://5.189.133.90:8000/live/Akif/Akif/3.ts
-#EXTINF:0,stream: Salon 3 HD
-http://5.189.133.90:8000/live/Akif/Akif/4.ts
-#EXTINF:0,stream: Tivibu Spor 1 HD
-http://5.189.133.90:8000/live/Akif/Akif/5.ts
-#EXTINF:0,stream: Moviemax Premier HD
-http://5.189.133.90:8000/live/Akif/Akif/6.ts
-
 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL D
 http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
@@ -27,7 +14,7 @@ http://212.224.108.84/S1/HLS_LIVE/kanald/750/prog_index.m3u8
 http://188.72.131.226/star.m3u8
 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,ATV
-http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+http://178.162.205.71:8081/live_hd/atv/live_hd/atv_hi/chunks.m3u8?nimblesessionid=26050345&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDE2IDY6NTM6MTMgUE0maGFzaF92YWx1ZT1YREplQU1yejFZZnRUYTE2K2tiK2pnPT0mdmFsaWRtaW51dGVzPTEwJmlwPTgyLjE2OC4yMDcuMTc0
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,ATV (1)
 http://www.iptvsaga.com/play/tv3/0041.m3u8
 
