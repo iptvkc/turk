@@ -57,7 +57,8 @@ http://bit.do/kanal7hd
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 7 AVRUPA
 http://livetr.gostream.nl/kanal7int/kanal7int/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TV8
-http://tv8.viviso.tv/staging_live_stream.m3u8
+http://178.162.205.71:8081/live_hd/TV8/live_hd/TV8_hi/chunks.m3u8?nimblesessionid=26073870&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDE2IDc6MTM6MTAgUE0maGFzaF92YWx1ZT1OZUhwaWloMi91TVFzeUpIK3JseUVRPT0mdmFsaWRtaW51dGVzPTEwJmlwPTgyLjE2OC4yMDcuMTc0
+
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TV8 (1)
 http://31.186.24.233:8011/1
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TV8 int 
@@ -201,7 +202,7 @@ rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
 #EXTINF:-1 $ExtFilter=" SPOR" ,BURSASPOR TV
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
 #EXTINF:-1,YUMURCAK TV
-http://vivisolivegrp01-lh.akamaihd.net/i/yumurcak_1@398194/index_360_av-b.m3u8?sd=10&rebase=on
+http://vivisolivegrp01-lh.akamaihd.net/i/yumurcaktv_primary_1@304288/index_480_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,YUMURCAK TV yedek
 http://vivisolive-lh.akamaihd.net/i/syg_backup3_1@383108/index_360_av-b.m3u8?sd=10&rebase=on
 
