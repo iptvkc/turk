@@ -16,7 +16,7 @@ http://188.72.131.226/star.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,ATV
 http://178.162.205.71:8081/live_hd/atv/live_hd/atv_hi/chunks.m3u8?nimblesessionid=26177452&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDE2IDEwOjAxOjM0IFBNJmhhc2hfdmFsdWU9cmkzNjNCNGxrNTVLVnBmekhnOXdvZz09JnZhbGlkbWludXRlcz0xMCZpcD04Mi4xNjguMjA3LjE3NA==
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,ATV (1)
-http://www.iptvsaga.com/play/tv3/0041.m3u8
+http://188.72.131.226/atv.m3u8 
 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,ATV AVRUPA
 http://hdtvizle.ru/14452/71930/71968/atvavrupa.m3u8
@@ -54,6 +54,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/index_600_av-p.m3u8?sd=10
 http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 7 (1)
 http://bit.do/kanal7hd
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 7 (2)
+http://livede.gostream.nl/kanal7hq/kanal7hq/playlist.m3u8 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 7 AVRUPA
 http://livetr.gostream.nl/kanal7int/kanal7int/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TV8
@@ -74,9 +76,11 @@ http://kanalturk-live.ercdn.com/kanalturk.m3u8
 http://184.173.181.2:1935/8158/8158/playlist.m3u8
 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TV2
-http://178.162.205.71:8081/live_hd/TV2/live_hd/TV2_hi/chunks.m3u8?nimblesessionid=26080602&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDE2IDc6MTk6MzggUE0maGFzaF92YWx1ZT03NmlkT2c5SmVldFR2Z09uSjlVOXB3PT0mdmFsaWRtaW51dGVzPTEwJmlwPTgyLjE2OC4yMDcuMTc0
+http://188.138.9.246/S2/HLS_LIVE/tv2/track_4_1000/playlist.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,TV2 (2)
+http://188.138.9.246/S2/HLS_LIVE/tv2/track_1_320/playlist.m3u8 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,CNBC-e
-http://178.162.205.71:8081/live_sd/tlc/live_sd/tlc_hi/chunks.m3u8?nimblesessionid=26083085&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDE2IDc6MjE6NTYgUE0maGFzaF92YWx1ZT13VnhzMXdQZEprandJYlVWUlpOTWZ3PT0mdmFsaWRtaW51dGVzPTEwJmlwPTgyLjE2OC4yMDcuMTc0
+
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,e2
 http://178.162.205.71:8081/live_sd/e2/live_sd/e2_hi/chunks.m3u8?nimblesessionid=26084316&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDE2IDc6MjM6MDYgUE0maGFzaF92YWx1ZT1ZUjh4eTNhb3Y3K2pzM3ZUcURicGlnPT0mdmFsaWRtaW51dGVzPTEwJmlwPTgyLjE2OC4yMDcuMTc0
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,CİNE5
