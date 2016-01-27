@@ -23,8 +23,10 @@ http://hdtvizle.ru/14452/71930/71968/atvavrupa.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,SHOW TV
 http://mn-l.mncdn.com/showtv/showtv1/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,SHOW TV (1)
-http://mn-l.mncdn.com/showturktv/showturktv2/HasBahCa.m3u8
+http://ift.tt/1OTkPWK
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,SHOW TV (2)
+http://mn-l.mncdn.com/showturktv/showturktv2/HasBahCa.m3u8
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,SHOW TV (3)
 http://live-ciner.mncdn.net/showtv/showtv2/HasBahCa.m3u8
 
 #EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",SHOW TÜRK 
@@ -50,6 +52,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT HD (1)
 http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/index_600_av-p.m3u8?sd=10
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 7
+http://ift.tt/1IEGfHL
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 7
 http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 7 (1)
@@ -91,8 +95,10 @@ http://vivisolivegrp01-lh.akamaihd.net/i/mctv_1@398169/index_270_av-p.m3u8?sd=10
 #EXTINF:-1,SAMANYOLU HABER
 http://www.iptvsaga.com/play/tv3/0040.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,BEYAZ TV
+http://ift.tt/1OTkMu3
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,BEYAZ TV (1)
 http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter=" ULUSAL" ,BEYAZ TV (yedek)
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,BEYAZ TV (2)
 http://hdtvizle.ru/14452/71930/71968/beyaz.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT TÜRK
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
