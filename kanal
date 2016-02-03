@@ -13,7 +13,7 @@ http://212.224.108.84/S1/HLS_LIVE/kanald/750/prog_index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,STAR TV
 http://188.72.131.226/star.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,STAR TV (1)
-http://hdtvizle.ru/14452/71930/71968/star.m3u8
+http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,ATV
 http://origin.live.web.tv.streamprovider.net/live/0a982dbefc5e9d29952bda5a981a9c6d_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,ATV (1)
@@ -84,9 +84,9 @@ http://188.138.9.246/S2/HLS_LIVE/tv2/track_4_1000/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TV2 (2)
 http://188.138.9.246/S2/HLS_LIVE/tv2/track_1_320/playlist.m3u8 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,CNBC-e
-
+http://origin.live.web.tv.streamprovider.net/live/9044496707bcc259f6cdf58eb93cbfe9_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,e2
-http://178.162.205.71:8081/live_sd/e2/live_sd/e2_hi/chunks.m3u8?nimblesessionid=26084316&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDE2IDc6MjM6MDYgUE0maGFzaF92YWx1ZT1ZUjh4eTNhb3Y3K2pzM3ZUcURicGlnPT0mdmFsaWRtaW51dGVzPTEwJmlwPTgyLjE2OC4yMDcuMTc0
+http://origin.live.web.tv.streamprovider.net/live/5dac5e87d17d40f5bca18d2b211a4dd2_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,CİNE5
 rtmp://cine5.stream.cubecdn.net/cine5/stream_1
 
