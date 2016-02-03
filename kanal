@@ -141,7 +141,7 @@ http://ift.tt/1QTrG33
 #EXTINF:-1 $ExtFilter=" HABER" ,NTV
 http://origin2.live.web.tv.streamprovider.net/streams/725528006e858fe951867f4e2436843f_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,360
-http://46.20.7.97:80/360tv/live/playlist.m3u8
+http://origin.live.web.tv.streamprovider.net/live/7b1c4724e7c32f1554013ca5977fd903_live_0_0/index.m3u8
 
 
 #EXTINF:-1 $ExtFilter=" HABER" ,HABERTÜRK
@@ -203,10 +203,12 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" SPOR" ,NTV SPOR
 http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
-
+#EXTINF:-1 $ExtFilter=" SPOR" ,A SPOR
+http://origin2.live.web.tv.streamprovider.net/live/a6784af7d08a9c91dbfa0e4eab17e3bf_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" SPOR" ,FANATİK TV
 rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
-
+#EXTINF:-1 $ExtFilter=" SPOR" ,FENERBAHCE TV
+http://origin2.live.web.tv.streamprovider.net/live/544e1de84736a3750a8c37a5eac2b12f/index.m3u8
 #EXTINF:-1 $ExtFilter=" SPOR" ,SPORTS TV
 rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
 #EXTINF:-1 $ExtFilter=" SPOR" ,BURSASPOR TV
@@ -239,6 +241,8 @@ mms://72.13.93.186/campcartoon
 
 #EXTINF:-1 $ExtFilter="SİNEMA" ,DOLUNAY
 http://ift.tt/1PO9y8u
+#EXTINF:-1,ARAFAT
+http://origin.live.web.tv.streamprovider.net/live/f5568b3fa9487e4aacece7056a472db1_live_0_0/index.m3u8
 #EXTINF:-1,TARIM TV
 http://ms.n1.tvkur.noccdn.com/cdn/540ea58191866/playlist.m3u8
 #EXTINF:-1,TARIM TURK
@@ -323,12 +327,7 @@ mms://213.142.142.213/turkmenelitv
 rtmp://77.223.146.117/live/planetm
 #EXTINF:-1 tvg-id="turk" tvg-logo="teleantioquia.png" group-title="TURK TV",TV 4 
 http://mn-l.mncdn.com/karamel/karamel/HasBahCa.m3u8
-#EXTINF:0,Salon 1 HD
-http://89.163.216.97:8000/live/Akif/Akif/3
-#EXTINF:0,Salon 2 HD
-http://89.163.216.97:8000/live/Akif/Akif/4
-#EXTINF:0,Salon 3 HD
-http://89.163.216.97:8000/live/Akif/Akif/5
+
 #EXTINF:-1 $ExtFilter="SİNEMA" ,HD SINEMA
 mmsh://yayin7.canliyayin.org/sinema?MSWMExt=.asf
 #EXTINF:-1 $ExtFilter="SİNEMA" ,HD SINEMA 1
@@ -434,93 +433,6 @@ http://coco.noip.us:8060/live/ahmet09/iErYITTM7T/5.m3u8
 #EXTINF:-1,MAC YAYINLARI
 http://92.222.205.40:8080/superlig
 
-#EXTINF:-1,                                 ----YEDEK TEST----
-http://92.222.205.40:8080/superlig
-#EXTINF:-1, TRT 1 HD
-http://hdtvizle.ru/14452/71930/71968/trt1hd.m3u8
-#EXTINF:-1, TRT 1 SD
-http://hdtvizle.ru/14452/71930/71968/trt1sd.m3u8
-#EXTINF:-1, ATV HD
-http://hdtvizle.ru/14452/71930/71968/atv.m3u8
-
-#EXTINF:-1, ATV AVRUPA
-http://hdtvizle.ru/14452/71930/71968/atvavrupa.m3u8
-#EXTINF:-1, SHOW TV
-http://hdtvizle.ru/14452/71930/71968/show.m3u8
-#EXTINF:-1, SHOW TURK
-http://hdtvizle.ru/14452/71930/71968/showt.m3u8
-#EXTINF:-1, KANAL D
-http://hdtvizle.ru/14452/71930/71968/kanald.m3u8
-#EXTINF:-1, FOX TV HD
-http://hdtvizle.ru/14452/71930/71968/foxtv.m3u8
-#EXTINF:-1, STAR TV
-http://hdtvizle.ru/14452/71930/71968/star.m3u8
-#EXTINF:-1, Tv 8
-http://hdtvizle.ru/14452/71930/71968/tv8sd.m3u8
-#EXTINF:-1, KANAL TURK SD
-http://hdtvizle.ru/14452/71930/71968/kanalt.m3u8
-#EXTINF:-1, SAMANYOLU TV
-http://hdtvizle.ru/14452/71930/71968/stv.m3u8
-#EXTINF:-1, BEYAZ TV
-http://hdtvizle.ru/14452/71930/71968/beyaz.m3u8
-#EXTINF:-1, TV 2 SD
-http://hdtvizle.ru/14452/71930/71968/tv2.m3u8
-#EXTINF:-1, TRT HD
-http://hdtvizle.ru/14452/71930/71968/trthd.m3u8
-#EXTINF:-1, MC TV
-http://hdtvizle.ru/14452/71930/71968/mctv.m3u8
-#EXTINF:-1, KANAL 7
-http://hdtvizle.ru/14452/71930/71968/kanal7.m3u8
-#EXTINF:-1, TRT SPOR
-http://hdtvizle.ru/14452/71930/71968/trts.m3u8
-#EXTINF:-1, A SPOR
-http://hdtvizle.ru/14452/71930/71968/aspor1.m3u8
-#EXTINF:-1, NTV SPOR
-http://hdtvizle.ru/14452/71930/71968/ntvs.m3u8
-#EXTINF:-1, SPORTS TV
-http://hdtvizle.ru/14452/71930/71968/sports.m3u8
-#EXTINF:-1, POWER TURK HD
-http://hdtvizle.ru/14452/71930/71968/powerhd.m3u8
-#EXTINF:-1, POWER TURK SD
-http://hdtvizle.ru/14452/71930/71968/power.m3u8
-#EXTINF:-1, VIVA TV
-http://hdtvizle.ru/14452/71930/71968/viva.m3u8
-#EXTINF:-1, DREAM TURK
-http://hdtvizle.ru/14452/71930/71968/dreamt.m3u8
-#EXTINF:-1, GENC TV
-http://hdtvizle.ru/14452/71930/71968/genc.m3u8
-#EXTINF:-1, NUMBER TURK
-http://hdtvizle.ru/14452/71930/71968/nr1.m3u8
-#EXTINF:-1, TMB
-http://hdtvizle.ru/14452/71930/71968/tmb.m3u8
-#EXTINF:-1,TRT MUZIK HD
-http://hdtvizle.ru/14452/71930/71968/trtm.m3u8
-#EXTINF:-1,POWER TV HD
-http://hdtvizle.ru/14452/71930/71968/phd.m3u8
-#EXTINF:-1, A HABER
-http://hdtvizle.ru/14452/71930/71968/ahaber.m3u8
-#EXTINF:-1, HALK TV
-http://hdtvizle.ru/14452/71930/71968/halk.m3u8
-#EXTINF:-1, TGRT HABER
-http://hdtvizle.ru/14452/71930/71968/tgrth.m3u8
-#EXTINF:-1, CNN TURK SD
-http://hdtvizle.ru/14452/71930/71968/cnn.m3u8
-#EXTINF:-1, TRT HABER SD
-http://hdtvizle.ru/14452/71930/71968/trthsd.m3u8
-#EXTINF:-1, TRT HABER HD
-http://hdtvizle.ru/14452/71930/71968/trth.m3u8
-#EXTINF:-1, HABER TURK
-http://hdtvizle.ru/14452/71930/71968/hturk.m3u8
-#EXTINF:-1, BUGUN TV HD
-http://hdtvizle.ru/14452/71930/71968/buguntv.m3u8
-#EXTINF:-1, AKILLI TV
-http://hdtvizle.ru/14452/71930/71968/akilli.m3u8
-#EXTINF:-1, TGRT Belgesel
-http://hdtvizle.ru/14452/71930/71968/tgrtb.m3u8
-#EXTINF:-1, TRT BELGESEL HD
-http://hdtvizle.ru/14452/71930/71968/trtb.m3u8
-#EXTINF:-1, TRT BELGESEL SD
-http://hdtvizle.ru/14452/71930/71968/trtbsd.m3u8
 
 #EXTINF:-1, YABAN TV
 http://hdtvizle.ru/14452/71930/71968/yaban.m3u8
