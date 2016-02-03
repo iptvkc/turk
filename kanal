@@ -170,7 +170,7 @@ rtmp://91.93.118.165/tvnet/livestream
 http://212.174.233.129/hls-live/livepkgr/_definst_/liveevent/mylivestream.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,TV 1
 http://stream.taksimbilisim.com:1935/tv1/smil:tv1.smil/playlist.m3u8
-#EXTINF:-1 $ExtFilter=" ULUSAL TV
+#EXTINF:-1 $ExtFilter=" ULUSAL",ULUSAL TV
 http://origin2.live.web.tv.streamprovider.net/live/0b41c2c2d34dafe38a1cf1a3f2cbaefe/index.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,ON 4
 rtmp://yayin.netradyom.com/live/on4
