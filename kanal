@@ -48,7 +48,7 @@ http://hdtvizle.ru/14452/71930/71968/foxtv.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT 1 HD (1)
-
+http://origin.live.web.tv.streamprovider.net/live/b5306512cde2565f1566ad35c241674c_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT HD 
 http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TRT HD (1)
@@ -131,7 +131,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,TRT HABER (1)
 http://ift.tt/1xhMprn
 #EXTINF:-1 $ExtFilter=" HABER" ,TRT HABER (2)
-http://sol.trtcdn.com/tv/trthaber/smil:trthaber.smil/chunklist_w1566915298_b665600.m3u8
+http://origin2.live.web.tv.streamprovider.net/live/eb12d2b839521cfd9d6d215c34f41868_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,CNN TÜRK
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,CNN TÜRK (1)
@@ -139,7 +139,7 @@ http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,CNN TÜRK (2)
 http://ift.tt/1QTrG33
 #EXTINF:-1 $ExtFilter=" HABER" ,NTV
-http://origin2.live.web.tv.streamprovider.net/streams/725528006e858fe951867f4e2436843f_live_0_0/index.m3u8
+http://origin2.live.web.tv.streamprovider.net/live/725528006e858fe951867f4e2436843f_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,360
 http://origin.live.web.tv.streamprovider.net/live/7b1c4724e7c32f1554013ca5977fd903_live_0_0/index.m3u8
 
@@ -148,13 +148,16 @@ http://origin.live.web.tv.streamprovider.net/live/7b1c4724e7c32f1554013ca5977fd9
 http://strm-i.glb.pr.medianova.tv:1935/haberturk/haberturk2/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,HABERTÜRK (1)
 http://mn-l.mncdn.com/haberturk/haberturk2/playlist.m3u8
-
+#EXTINF:-1 $ExtFilter=" HABER" ,SKYTURK 365
+http://origin.live.web.tv.streamprovider.net/live/7b1c4724e7c32f1554013ca5977fd903_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,A HABER
-http://31.186.24.232:8000/121
+http://origin2.live.web.tv.streamprovider.net/live/996642ce8e8f48d5438c6de972497d4a_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,24 TV
 http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,TGRT HABER
 http://tgrthaber.mediatriple.net:1935/tgrtliveedge/smil:tgrt.smil/Playlist.m3u8
+#EXTINF:-1 $ExtFilter=" HABER" ,TGRT HABER (1)
+http://origin.live.web.tv.streamprovider.net/live/b9b5c58f4f1e3a925fa486c558654f6d/index.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,TGRT EU
 http://tgrteu.mediatriple.net:1935/tgrteuliveedge/smil:tgrt.smil/Playlist.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,ÜLKE TV
@@ -167,7 +170,8 @@ rtmp://91.93.118.165/tvnet/livestream
 http://212.174.233.129/hls-live/livepkgr/_definst_/liveevent/mylivestream.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,TV 1
 http://stream.taksimbilisim.com:1935/tv1/smil:tv1.smil/playlist.m3u8
-
+#EXTINF:-1 $ExtFilter=" ULUSAL TV
+http://origin2.live.web.tv.streamprovider.net/live/0b41c2c2d34dafe38a1cf1a3f2cbaefe/index.m3u8
 #EXTINF:-1 $ExtFilter=" HABER" ,ON 4
 rtmp://yayin.netradyom.com/live/on4
 
@@ -202,7 +206,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 #EXTINF:-1 $ExtFilter=" SPOR" ,TRT SPOR 2
 http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" SPOR" ,NTV SPOR
-http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
+http://origin.live.web.tv.streamprovider.net/live/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" SPOR" ,A SPOR
 http://origin2.live.web.tv.streamprovider.net/live/a6784af7d08a9c91dbfa0e4eab17e3bf_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" SPOR" ,FANATİK TV
@@ -220,8 +224,9 @@ http://vivisolive-lh.akamaihd.net/i/syg_backup3_1@383108/index_360_av-b.m3u8?sd=
 
 #EXTINF:-1 $ExtFilter=" ÇOCUK" ,TRT ÇOCUK
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-
 #EXTINF:-1 $ExtFilter=" ÇOCUK"  ,PLANET ÇOCUK
+http://origin.live.web.tv.streamprovider.net/live/852843e69184bd2c2146ae50e7aba5c3_live_0_0/index.m3u8
+#EXTINF:-1 $ExtFilter=" ÇOCUK"  ,PLANET ÇOCUK (1)
 rtmp://77.223.146.117/live/planetc
 
 
@@ -489,6 +494,8 @@ http://www.iptvsaga.com/play/tv3/0062.m3u8
 http://www.iptvsaga.com/play/tv3/0041.m3u8
 #EXTINF:-1,SHOW HD
 http://www.iptvsaga.com/play/tv3/0045.m3u8
+#EXTINF:-1,SHOW HD (1)
+http://origin2.live.web.tv.streamprovider.net/live/1c3194be3e42b53e3b61831517eb972a_live_0_0/index.m3u8
 #EXTINF:-1,Kanal D HD
 http://www.iptvsaga.com/play/tv3/0038.m3u8
 #EXTINF:-1,Star TV
