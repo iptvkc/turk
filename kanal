@@ -12,7 +12,8 @@ http://212.224.108.80/S1/HLS_LIVE/kanald/500/prog_index.m3u8
 http://212.224.108.84/S1/HLS_LIVE/kanald/750/prog_index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,STAR TV
 http://188.72.131.226/star.m3u8
-
+#EXTINF:-1 $ExtFilter=" ULUSAL" ,STAR TV (1)
+http://hdtvizle.ru/14452/71930/71968/star.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,ATV
 http://origin.live.web.tv.streamprovider.net/live/0a982dbefc5e9d29952bda5a981a9c6d_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,ATV (1)
@@ -63,8 +64,7 @@ http://livede.gostream.nl/kanal7hq/kanal7hq/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL 7 AVRUPA
 http://livetr.gostream.nl/kanal7int/kanal7int/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TV8
-http://178.162.205.71:8081/live_hd/TV8/live_hd/TV8_hi/chunks.m3u8?nimblesessionid=26073870&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDE2IDc6MTM6MTAgUE0maGFzaF92YWx1ZT1OZUhwaWloMi91TVFzeUpIK3JseUVRPT0mdmFsaWRtaW51dGVzPTEwJmlwPTgyLjE2OC4yMDcuMTc0
-
+http://hdtvizle.ru/14452/71930/71968/tv8hd.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TV8 (1)
 http://31.186.24.233:8011/1
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,TV8 int 
