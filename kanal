@@ -570,7 +570,7 @@ http://www.iptvsaga.com/play/tv3/0070.m3u8
 http://www.iptvsaga.com/play/tv3/0071.m3u8 
 
 #EXTINF:-1,                                 ----YABANCI TEST----
-
+http://77.76.140.251/prgb.m3u8
 #EXTINF:-1,Cinemax+ 
 http://77.76.140.251/prgb.m3u8 
 #EXTINF:-1,F+ 
