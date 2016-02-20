@@ -3,6 +3,113 @@
 #EXTINF:-1,                                 [COLOR RED]----*IPTV KAMIL*-----[/COLOR]
 hthttp://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&live=true&app=com.kanald&min=0&max=1250tp://212.224.108.80/S1/HLS_LIVE/kanald/500/prog_index.m3u8
 
+#‎EXTINF‬:-1,TR ATV HD
+http://neuiptv.sytes.net:8760/huseyin/aydin/9.ch
+ #EXTINF:-1,TR KANAL D HD
+http://neuiptv.sytes.net:8760/huseyin/aydin/11.ch
+ #EXTINF:-1,TR SHOW TV HD
+http://neuiptv.sytes.net:8760/huseyin/aydin/12.ch
+ #EXTINF:-1,TR Star
+http://neuiptv.sytes.net:8760/huseyin/aydin/68.ch
+ #EXTINF:-1,TR TV 8
+http://neuiptv.sytes.net:8760/huseyin/aydin/69.ch
+ #EXTINF:-1,TR TRT HD
+http://neuiptv.sytes.net:8760/huseyin/aydin/21.ch
+ #EXTINF:-1,TR TRT HD 1
+http://neuiptv.sytes.net:8760/huseyin/aydin/61.ch
+ #EXTINF:-1,TR TRT TURK
+http://neuiptv.sytes.net:8760/huseyin/aydin/23.ch
+ #EXTINF:-1,TR TRT SPOR HD
+http://neuiptv.sytes.net:8760/huseyin/aydin/25.ch
+ #EXTINF:-1,TR TRT HABER
+http://neuiptv.sytes.net:8760/huseyin/aydin/22.ch
+ #EXTINF:-1,TR TRT BELGESEL
+http://neuiptv.sytes.net:8760/huseyin/aydin/39.ch
+ #EXTINF:-1,TR TRT COCUK
+http://neuiptv.sytes.net:8760/huseyin/aydin/26.ch
+ #EXTINF:-1,TR TRT MUZIK
+http://neuiptv.sytes.net:8760/huseyin/aydin/24.ch
+ #EXTINF:-1,TR FOX TV
+http://neuiptv.sytes.net:8760/huseyin/aydin/10.ch
+ #EXTINF:-1,TR FLASH TV
+http://neuiptv.sytes.net:8760/huseyin/aydin/38.ch
+ #EXTINF:-1,TR HABER TURK
+http://neuiptv.sytes.net:8760/huseyin/aydin/44.ch
+ #EXTINF:-1,TR HABERTURK TV
+http://neuiptv.sytes.net:8760/huseyin/aydin/83.ch
+ #EXTINF:-1,TR HALK TV
+http://neuiptv.sytes.net:8760/huseyin/aydin/70.ch
+ #EXTINF:-1,TR HISTORY
+http://neuiptv.sytes.net:8760/huseyin/aydin/62.ch
+ #EXTINF:-1,TR TV 2
+http://neuiptv.sytes.net:8760/huseyin/aydin/50.ch
+ #EXTINF:-1,TR TJK
+http://neuiptv.sytes.net:8760/huseyin/aydin/27.ch
+ #EXTINF:-1,TR TV NET
+http://neuiptv.sytes.net:8760/huseyin/aydin/45.ch
+ #EXTINF:-1,TR TV EM
+http://neuiptv.sytes.net:8760/huseyin/aydin/66.ch
+ #EXTINF:-1,TR KARAMEL TV
+http://neuiptv.sytes.net:8760/huseyin/aydin/30.ch
+ #EXTINF:-1,TR KRAL TV
+http://neuiptv.sytes.net:8760/huseyin/aydin/33.ch
+ #EXTINF:-1,TR MINIKA ÇOCUK
+http://neuiptv.sytes.net:8760/huseyin/aydin/29.ch
+ #EXTINF:-1,TR POVER TURK
+http://neuiptv.sytes.net:8760/huseyin/aydin/32.ch
+ #EXTINF:-1,TR Samanyolu Avrupa
+http://neuiptv.sytes.net:8760/huseyin/aydin/67.ch
+ #EXTINF:-1,TR SPORTS TV
+http://neuiptv.sytes.net:8760/huseyin/aydin/28.ch
+ #EXTINF:-1,TR TARIM TV
+http://neuiptv.sytes.net:8760/huseyin/aydin/59.ch
+ #EXTINF:-1,TR TGRT BELGESEL
+http://neuiptv.sytes.net:8760/huseyin/aydin/34.ch
+ #EXTINF:-1,TR TGRT HABER
+http://neuiptv.sytes.net:8760/huseyin/aydin/82.ch
+ #EXTINF:-1,TR TV10
+http://neuiptv.sytes.net:8760/huseyin/aydin/46.ch
+ #EXTINF:-1,TR ULKE TV
+http://neuiptv.sytes.net:8760/huseyin/aydin/51.ch
+ #EXTINF:-1,TR YABAN TV
+http://neuiptv.sytes.net:8760/huseyin/aydin/49.ch
+ #EXTINF:-1,TR Bengütürk
+http://neuiptv.sytes.net:8760/huseyin/aydin/52.ch
+ #EXTINF:-1,TR BEREKET TV
+http://neuiptv.sytes.net:8760/huseyin/aydin/55.ch
+ #EXTINF:-1,TR BUGUN TV
+http://neuiptv.sytes.net:8760/huseyin/aydin/47.ch
+ #EXTINF:-1,TR BURSA SPOR TV
+http://neuiptv.sytes.net:8760/huseyin/aydin/57.ch
+ #EXTINF:-1,TR CNN TURK HD
+http://neuiptv.sytes.net:8760/huseyin/aydin/13.ch
+ #EXTINF:-1,TR DREAM TÜRK
+http://neuiptv.sytes.net:8760/huseyin/aydin/64.ch
+ #EXTINF:-1,TR DREAM TURK
+http://neuiptv.sytes.net:8760/huseyin/aydin/36.ch
+ #EXTINF:-1,TR DREAM TV
+http://neuiptv.sytes.net:8760/huseyin/aydin/65.ch
+ #EXTINF:-1,TR DRT DENIZLI
+http://neuiptv.sytes.net:8760/huseyin/aydin/63.ch
+ #EXTINF:-1,TR EGE TV
+http://neuiptv.sytes.net:8760/huseyin/aydin/54.ch
+ #EXTINF:-1,TR FIL TV
+http://neuiptv.sytes.net:8760/huseyin/aydin/37.ch
+ #EXTINF:-1,TR Kanal 35
+http://neuiptv.sytes.net:8760/huseyin/aydin/53.ch
+ #EXTINF:-1,TR KANAL 7 HD
+http://neuiptv.sytes.net:8760/huseyin/aydin/14.ch
+ #EXTINF:-1,TR KANALTURK
+http://neuiptv.sytes.net:8760/huseyin/aydin/84.ch
+ #EXTINF:-1,TR YUMURCAK TV
+http://neuiptv.sytes.net:8760/huseyin/aydin/31.ch
+ #EXTINF:-1,TR A SPOR
+http://neuiptv.sytes.net:8760/huseyin/aydin/48.ch
+ #EXTINF:-1,AZ LIDER TV AZERI
+http://neuiptv.sytes.net:8760/huseyin/aydin/56.ch
+ #EXTINF:-1,AZ MUZ TV
+http://neuiptv.sytes.net:8760/huseyin/aydin/60.ch
+
 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL D
 http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
