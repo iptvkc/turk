@@ -10,14 +10,14 @@ http://212.224.108.80/S1/HLS_LIVE/kanald/500/prog_index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,KANAL D (2)
 http://212.224.108.84/S1/HLS_LIVE/kanald/750/prog_index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,STAR TV
-http://origin.live.web.tv.streamprovider.net/live/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
+http://live1.cdn.web.tv/live/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,STAR TV (1)
-http://188.72.131.226/star.m3u8
+
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,ATV
-http://origin.live.web.tv.streamprovider.net/live/0a982dbefc5e9d29952bda5a981a9c6d_live_0_0/index.m3u8
+http://live1.cdn.web.tv/live/0a982dbefc5e9d29952bda5a981a9c6d_live_0_0/index.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,ATV (1)
-http://188.72.131.226/atv.m3u8 
+
 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,ATV AVRUPA
 http://hdtvizle.ru/14452/71930/71968/atvavrupa.m3u8
@@ -42,7 +42,7 @@ http://vivisolivegrp01-lh.akamaihd.net/i/stveu_1@398191/index_270_av-b.m3u8?sd=1
 http://vivisolivegrp01-lh.akamaihd.net/i/stveu_1@398191/index_180_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,FOX TURK 
-http://origin.live.web.tv.streamprovider.net/live/89951cc8d1230f107708974ee34d6f45/index.m3u8
+http://37.187.164.118:1938/live/webtvplay_test/chunklist_w993475541.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,FOX TURK (1)
 http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
 #EXTINF:-1 $ExtFilter=" ULUSAL" ,FOX TURK (2)
